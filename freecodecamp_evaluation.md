@@ -61,7 +61,7 @@ There are unit tests run with Travis CI. I'm not sure if contributors have to wr
 There are some comments, from what I can see.
 
 1. Is there documentation about the design?  <br>
-Yes, (here)[https://github.com/freeCodeCamp/freeCodeCamp/tree/master/docs]
+Yes, [here](https://github.com/freeCodeCamp/freeCodeCamp/tree/master/docs)
 
 
 ## Activity Level
@@ -122,7 +122,7 @@ Yes
 Yes
 
 1. Do maintainers thank people for their contributions? <br>
-Yes (example)[https://github.com/freeCodeCamp/freeCodeCamp/pull/38298#issuecomment-592559307]
+Yes [example](https://github.com/freeCodeCamp/freeCodeCamp/pull/38298#issuecomment-592559307)
 
 ## Development Environment Installation
 
