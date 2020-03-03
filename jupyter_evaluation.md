@@ -2,7 +2,7 @@
 
 
 **Evaluating Person or Team**:
-Emmett github:emmetthannigan
+Emmett github: emmetthannigan
 
 ---
 
