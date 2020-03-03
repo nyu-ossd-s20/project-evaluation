@@ -11,6 +11,12 @@
 ## Project Data
 
 1. Project description: <br>
+
+Purpose: "Open States strives to improve civic engagement at the state level by providing data and tools regarding state legislatures. We aim to serve members of the public, activist groups, journalists, and researchers with better data on what is happening in their state capital, and to provide tools to reduce barriers to participation and increase engagement."
+
+The code scapes data from every state regarding bills, available sessions, breakdown of senators and assemblymembers, and committees. 
+
+OpenStates users would be people who are looking to get more informed about what is going on in their state politically. 
 <!--
 What is the purpose of this project? What does the code do? What type of users
 does it have?
@@ -70,12 +76,17 @@ According to OpenHub, appoximately 30k lines of code.
 
 1. Does the repository have tests? If so, are the code contributors expected to write tests for newly added code? <br>
 
+It would not appear if contributors are expected to write tests but they are expected to test their code. 
 
 
 ## Code and Design Documentation
 1. Is there clear documentation in the code itself? <br>
 
+There is very little if any documentation in the random sample of code I have looked at. 
+
 1. Is there documentation about the design?  <br>
+
+There is clear documentation about the design in the docs. 
 
 
 ## Activity Level
@@ -83,11 +94,19 @@ According to OpenHub, appoximately 30k lines of code.
 
 1. How many commits have been made in the past week? <br>
 
+On the master branch, there have been 18 commits while on all branches there have been 27 commits. This excludes merges. There have been 13 merges, and one new pull request in the past week. 
+
 1. When was the most recent commit? <br>
+
+As I'm writing this at 11:38am March 3rd the most recent commit was a merge 27 minutes ago. 
 
 1. How many issues are currently open? <br>
 
+30 issues are currently open. 
+
 1. How long do issues stay open? <br>
+
+The majority of issues are automatically resolved by a bot within a day. Other issues I looked at all appeared to be resolved within two days. 
 	<!--
 	Take the five closed issues (they can be most recently closed or a sample distributed over time) and look at when each was first reported.
 	Compute the number of days that each was open and take the average.
@@ -95,17 +114,31 @@ According to OpenHub, appoximately 30k lines of code.
 
 1. Read the conversations from some open and some closed issues. Is there active discussion on the issues? <br>
 
+There is an active discussion between the maintainers of the codebase and the users / contributers presenting issues on all the issues that require it. 
+
 1. Are issues tagged as easy, hard, for beginners, etc.? <br>
+
+No, they are taggged by priority and what type of issue they are. Some issues are also voted on and tagged that way. 
 
 1. How many issues were closed in the past six months? <br>
 
+Approximately 100 issues have been closed in the past six months. 
+
 1. Is there information about how many people are maintaining the project? <br>
+
+There is clear information as to the team who maintains the project on the projects website. 
 
 1. How many contributors has the project had in the past six months? <br>
 
+In the past six months 7 users have made commits to the project. 
+
 1. How many open pull requests are there? <br>
 
+There are two open pull requests. 
+
 1. Do pull requests remain un-answered for a long time? <br>
+
+No, they all get looked at and taken care of within a week and usually within two days. 
 	<!--
 	Look at the closed pull requests to see how long they stayed open.
 	Take the five closed pull requests  (they can be most recently closed or a sample distributed over time) and look at when each was first created.
@@ -185,11 +218,15 @@ No other comments.
 ## Summary
 1. Do you think  this is a project to which it would be possible to contribute
 in the course of a few weeks before the end of this semester? <br>
+
+I think this is a project that would be easy to contrubute to over the course of a few weeks and definitely before the end of the semester. I think a major upgrade we could easily make in this class is adding documentation to all of the code as very little currently exists. Another clear upgrade needed is a more extensive readme rather than just links to other sources where the info exists. I also think that it wouldn't be too tough to understand and write more code for this project in that amount of time. 
 	<!--
 	Explain your position. Do NOT simply say 'yes or 'no'.
 	-->
 
 1. Would you be interested in contributing to this particular project? <br>
+
+I wouldn't say I'm super stoked on this project but I definitely wouldn't be opposed to working on it. It's clearly an important resource that people should be taking advantage of. 
 	<!--
 	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
 	-->
