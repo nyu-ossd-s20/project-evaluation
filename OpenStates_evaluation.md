@@ -1,8 +1,9 @@
-# Project Name:  <!-- replace with the project name -->   
+# Project Name: Open States
+<!-- replace with the project name -->   
 
 
 
-**Evaluating Person or Team**:
+**Evaluating Person or Team**: Ben, benrkaplan 
 <!-- list your first name and github user-name-->
 
 ---
@@ -15,15 +16,17 @@ What is the purpose of this project? What does the code do? What type of users
 does it have?
 -->
 
-1. Project website/homepage:
+1. Project website/homepage: https://openstates.org/
 
-1. Project repository:
+1. Project repository: https://github.com/openstates/openstates
 
 
 
 ## License
 
 1. What is the project's license? <br>
+
+The main license for this project is the GNU General Public License Version 3. 
 <!--
 In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
@@ -36,6 +39,8 @@ different licenses on specific files, but the project will have a main license.
 
 
 1. What is the primary programming language in the project?
+
+99.9% of this project is in Python. The other 0.1% is not specified but I think it's just the config / yaml / markdown files like the readme. 
 
 1. What is the development environment? <br>
 	<!--
