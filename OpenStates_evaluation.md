@@ -106,24 +106,40 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 
 1. Read the conversations from some open and some closed pull requests.  Is there active discussion on the pull requests? <br>
 
+There is an active discussion on pull requests that require it. Some are just new things being scraped and then added to their database, the majority of these do not require any discussion. 
+
 1. How many pull requests were opened within the past six months? <br>
 
+102 pull requests have been opened in the past six months. 
+
 1. When was the last  pull request  merged? <br>
+
+The last pull request was closed yesterday (03/02/2020), this is being done on March 3rd 2020. 
 
 ## Welcomeness and Community
 
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
 Look through it and see if it is clear and thorough. <br>
 
+There are multiple contributing pages in their docs. They provide detailed instructions for what users can do, and how to set up the environment etc. Everything provided in the docs is clear and thorough regarding contributing. 
+
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it? <br>
+
+There is a code of conduct document and it includes consequences for acts that violate it. 
 
 1. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive? Read the issue conversations. <br>
 
+The maintainers actively respond helpfully to questions posted in the issues section. The responses are 100% thought out and constructive. 
+
 1. Are people friendly in the issues, discussion forum, and chat? <br>
 
+People are friendly in the issues, discussion forum, and chat. 
+
 1. Do maintainers thank people for their contributions? <br>
+
+The maintainers definitely thank people for their contributions. 
 
 
 ## Development Environment Installation
@@ -133,15 +149,27 @@ Describe the process that you needed to follow:
 
 1. how involved was the process? <br>
 
+Installing their development environment is extremely easy and they provide clear instructions for Mac, Windows, and Linux. They then provide easy instructions for cloniing their repository and begining to work with their code. 
+
 1. how long it take you? <br>
+
+It took me about 3 minutes to get everything set up. I just followed the instructions on their website. 
 
 1. did you need to install additional packages or libraries? <br>
 
+I needed to install Docker and pre-commit on my laptop to do this. 
+
 1. were you able to build the code following the instructions? <br>
+
+Yes, they provide clear instructions for doing everything (very minumal effort needed from the user). 
 
 1. did you need to look for additional help in installing the environment? <br>
 
+I did not need to look for any additional help when installing the environment. 
+
 1. any other comments? <br>
+
+No other comments. 
 
 
 
