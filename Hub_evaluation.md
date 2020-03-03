@@ -9,7 +9,6 @@ electavire
 
 1. Project description: <br>
 "hub is an extension to command-line git that helps you do everyday GitHub tasks without ever leaving the terminal."
-
 Makes standard github features like issue tracking and project browsing much easier from the terminal
 
 1. Project website/homepage:
