@@ -1,9 +1,9 @@
-# Project Name:  <!-- replace with the project name -->   
+# Project Name:  GNOME Accessibility Toolkit
 
 
 
 **Evaluating Person or Team**:
-<!-- list your first name and github user-name-->
+Julius nedjulius
 
 ---
 
@@ -15,20 +15,16 @@ What is the purpose of this project? What does the code do? What type of users
 does it have?
 -->
 
-1. Project website/homepage:
+1. Project website/homepage: https://wiki.gnome.org/Accessibility
 
-1. Project repository:
+1. Project repository: https://gitlab.gnome.org/GNOME/atk
 
 
 
 ## License
 
 1. What is the project's license? <br>
-<!--
-In most repositories there will be a file named LICENSE or something similar in
-the root level of the repository. This is the one to examine. There may be
-different licenses on specific files, but the project will have a main license.
--->
+GNU LIBRARY GENERAL PUBLIC LICENSE
 
 
 
@@ -36,6 +32,7 @@ different licenses on specific files, but the project will have a main license.
 
 
 1. What is the primary programming language in the project?
+C
 
 1. What is the development environment? <br>
 	<!--
