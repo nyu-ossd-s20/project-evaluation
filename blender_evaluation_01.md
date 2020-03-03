@@ -159,17 +159,25 @@ I know that 64 people have pushed to master in the past month thus assuming that
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
 Look through it and see if it is clear and thorough. <br>
 
-
+It is on their website. It is very clear cut.
 
 2. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it? <br>
 
+There is code of conduct on both their developer forum. They do not have consequences, but they do seem to be pretty clear about how their community is built and it would bad if you broke their code of conduct.
+
 3. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive? Read the issue conversations. <br>
 
+Yes, extensively. 
+
 4. Are people friendly in the issues, discussion forum, and chat? <br>
 
+Very much so!
+
 5. Do maintainers thank people for their contributions? <br>
+
+In the forums yes.
 
 
 ## Development Environment Installation
@@ -179,13 +187,23 @@ Describe the process that you needed to follow:
 
 1. how involved was the process? <br>
 
+The process was very easy. Since it is very clearly outlined
+
 2. how long it take you? <br>
+
+No more than a half an hour.
 
 3. did you need to install additional packages or libraries? <br>
 
+I already have CMAke on my machine so no.
+
 4. were you able to build the code following the instructions? <br>
 
+Yes.
+
 5. did you need to look for additional help in installing the environment? <br>
+
+No. 
 
 6. any other comments? <br>
 
@@ -199,7 +217,11 @@ in the course of a few weeks before the end of this semester? <br>
 	Explain your position. Do NOT simply say 'yes or 'no'.
 	-->
 
+No, I definetly feel as if their code base is too large for me to make a meaningful contribution by the end of the semester. If it wasn't so extensive and I have had previous expierence in rending software then it could be possible.
+
 2. Would you be interested in contributing to this particular project? <br>
+
+I have used blender in the past, and I like what they stand for. However, I am not very interested in working with rendering software and feel as if there is a high barrier to entry given my current skillset.
 	<!--
 	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
 	-->
