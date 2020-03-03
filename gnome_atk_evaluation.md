@@ -1,16 +1,19 @@
-# Project Name:  GNOME Accessibility Toolkit   
+# Project Name:  <!-- replace with the project name -->   
 
 
 
 **Evaluating Person or Team**:
-Julius nedjulius
+<!-- list your first name and github user-name-->
 
 ---
 
 ## Project Data
 
 1. Project description: <br>
-Hmmm.
+<!--
+What is the purpose of this project? What does the code do? What type of users
+does it have?
+-->
 
 1. Project website/homepage:
 
