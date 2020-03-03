@@ -35,22 +35,23 @@ GNU LIBRARY GENERAL PUBLIC LICENSE
 C
 
 1. What is the development environment? <br>
-	<!--
-	For example, is it Gnu C++ on Linux?
-	Is it a Windows 10 application? Does one need to develop in a virtual machine?
-	-->
+It is not specified anywhere in the documentation, but I would guess that it is some Linux version, since the ATK is created specifically for GNOME environment. It uses Ninja and Meson for compilation.
 
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
+Building instructions, as well as download link are provided in the README file. There are no particular instructions on how to download the source code, there is just a link to it. Building instructions are very obscure and short. There are just three different ways to build the program. They are easy to find since they are in the README.md file. Overall, the README file is not very informative, contains just the very necessary information.
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries? If so, are there clear instructions on how to install those? <br>
+ATK has a GTK dependency, which is a toolkit for UI components. There are no clear instructions on how to install this dependency, just a link to their website (people are supposed to follow GTK's provided steps).
 
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample. <br>
+I think someone with C knowledge might be able to understand the code just fine. The whole project is written in C only.
 
 1. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
+29.3K lines of code. I would say that it is a small to medium size project compared to React, for example, which has 235K lines of code.
 
 1. Does the repository have tests? If so, are the code contributors expected to write tests for newly added code? <br>
 
