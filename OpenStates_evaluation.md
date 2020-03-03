@@ -45,7 +45,7 @@ Bill, vote, legislator, and committee data is collected from official sources.
 
    Yes, and the instructions are clear and easy to follow along.
 
-1) Is the code easy to understand? Browse some source code files and make
+1. Is the code easy to understand? Browse some source code files and make
    a judgment based on your random sample. <br>
 
    I think for someone who is familiar with python or has experience with scraping data, it might be easy to understand. For me personally, it's not easy.
@@ -75,11 +75,11 @@ The repository does not have tests and contributors are not expected to write te
 
    35 commits.
 
-1) When was the most recent commit? <br>
+1. When was the most recent commit? <br>
 
    Mar 2, 2020.
 
-1) How many issues are currently open? <br>
+1. How many issues are currently open? <br>
 
    30.
 
@@ -123,7 +123,7 @@ The repository does not have tests and contributors are not expected to write te
 
    130, 128 of them are closed and 2 pull requests are still open.
 
-1) When was the last pull request merged? <br>
+1. When was the last pull request merged? <br>
 
    Mar 2, 2020.
 
