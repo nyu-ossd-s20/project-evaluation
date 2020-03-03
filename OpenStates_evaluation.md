@@ -43,6 +43,8 @@ different licenses on specific files, but the project will have a main license.
 99.9% of this project is in Python. The other 0.1% is not specified but I think it's just the config / yaml / markdown files like the readme. 
 
 1. What is the development environment? <br>
+
+This is a python web scraper. All someone needs to write code is Python and Docker. To run it a web browser, and internet are needed. 
 	<!--
 	For example, is it Gnu C++ on Linux?
 	Is it a Windows 10 application? Does one need to develop in a virtual machine?
@@ -51,14 +53,20 @@ different licenses on specific files, but the project will have a main license.
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
 
+The instructions to get the code are easy. Everything that the code does can be seen on their website as they display all info scraped there. 
+
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries? If so, are there clear instructions on how to install those? <br>
 
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample. <br>
 
+The code is extremely easy to understand as it is mostly simple Python web scrapers. 
+
 1. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
+
+According to OpenHub, appoximately 30k lines of code. 
 
 1. Does the repository have tests? If so, are the code contributors expected to write tests for newly added code? <br>
 
