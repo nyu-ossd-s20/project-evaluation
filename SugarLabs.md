@@ -14,10 +14,10 @@ kmaraj
 SugarLabs is a "FLOSS" project that supports an open source environment known as Sugar. Sugar is a collaborative learning environment designed for children so they can interact with computers in an easy, flexible way. Sugar provides various interactive activities designed for children to engage with. 
 
 1. Project website/homepage:
-[SugarLabs Website] (https://www.sugarlabs.org/)
+[SugarLabs Website](https://www.sugarlabs.org/)
 
 1. Project repository:
-[SugarLabs Repository] (https://github.com/sugarlabs)
+[SugarLabs Repository](https://github.com/sugarlabs)
 
 
 ## License
@@ -95,7 +95,9 @@ According to their [website](https://www.sugarlabs.org/profiles/) there are 4 pe
 
 1. How many contributors has the project had in the past six months? <br>
 This project has had 6 contributors in the past six months.
+
 1. How many open pull requests are there? <br>
+There are 16 open pull requests. 
 
 1. Do pull requests remain un-answered for a long time? <br>
 	Looking at the closed pull requests it takes an average of 3.33 days for them to be closed or merged. 
