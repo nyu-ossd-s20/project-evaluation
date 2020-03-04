@@ -25,7 +25,6 @@ Godot Engine is a "cross-platform game engine to create 2D and 3D games from a u
 MIT License
 
 
-
 ## Code Base
 
 
@@ -148,17 +147,30 @@ There are 5,539 issues still open
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
 Look through it and see if it is clear and thorough. <br>
 
+	Yes, it is a very thorough set of expectations with special instructions for new feature proposals.
+
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it? <br>
+	
+	Yes, there is a Code of Conduct. It states that parties will "excluded from participating in the community if you insult, demean, harass, intentionally make others uncomfortable by any means, or participate in any other hateful conduct, either publicly or privately."
+
+
 
 1. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive? Read the issue conversations. <br>
+	
+	Yes, responses are conducive to conversation and resolution IF the issue posted is well documented and detailed. Otherwise, members tend to bluntly (but not rudely) tell the poster to provide more detail or look at a duplicate
+
 
 1. Are people friendly in the issues, discussion forum, and chat? <br>
+	
+	Not necessarily heart-warmingly friendly, but civil and helpful.
 
 1. Do maintainers thank people for their contributions? <br>
 
+	Yes.
 
+	
 ## Development Environment Installation
 
 Install the development environment for the project on your system.
