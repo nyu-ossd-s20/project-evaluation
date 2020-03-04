@@ -159,17 +159,22 @@ Install the development environment for the project on your system.
 Describe the process that you needed to follow:
 
 1. how involved was the process? <br>
+It was not too involved. I downloaded the Anaconda package and followed the steps listed on the homepage. 
 
 1. how long it take you? <br>
+It took me about 10 minutes.
 
 1. did you need to install additional packages or libraries? <br>
+There were other packages that were needed, but were automatically installed.
 
 1. were you able to build the code following the instructions? <br>
+After some time, yes.
 
 1. did you need to look for additional help in installing the environment? <br>
+yes.
 
 1. any other comments? <br>
-
+No.
 
 
 
@@ -179,8 +184,12 @@ in the course of a few weeks before the end of this semester? <br>
 	<!--
 	Explain your position. Do NOT simply say 'yes or 'no'.
 	-->
+I think i could possibly contribute to this project. It doesnt seem like it requires specilized knowledge. Also, I know python but would need to brudh up on my skills.
 
 1. Would you be interested in contributing to this particular project? <br>
 	<!--
 	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
 	-->
+Possibly, yes. It seems like an interesting project. 
+
+
