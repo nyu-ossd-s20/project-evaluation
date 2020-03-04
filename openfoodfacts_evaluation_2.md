@@ -9,10 +9,10 @@
 
 1. Project description: <br>
 
-Open Food Facts is a food products database. It basically contains information on foods from all around the world
-and allows anyone to add more foods to their database. Currently there are 1,173,440 products in the database.
-I would imagine that their userbase contains people from all over the world, broadly encompassing as it is simply a search engine
-for food.
+  Open Food Facts is a food products database. It basically contains information on foods from all around the world
+  and allows anyone to add more foods to their database. Currently there are 1,173,440 products in the database.
+  I would imagine that their userbase contains people from all over the world, broadly encompassing as it is simply a search engine
+  for food.
 
 1. Project website/homepage: <https://world.openfoodfacts.org/>
 
@@ -23,8 +23,7 @@ for food.
 ## License
 
 1. What is the project's license? <br>
-
-The project's license is the: GNU AFFERO GENERAL PUBLIC LICENSE.
+  The project's license is the: GNU AFFERO GENERAL PUBLIC LICENSE.
 
 
 
