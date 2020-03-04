@@ -41,9 +41,7 @@ different licenses on specific files, but the project will have a main license.
 
 
 1. What is the primary programming language in the project? <br>
-
 	__JavaScript__ 
-<br>
 
 1. What is the development environment? <br>
 
@@ -51,11 +49,7 @@ different licenses on specific files, but the project will have a main license.
  	to set up freeCodeCamp locally on your own system. They say to fork and clone the respository onto
  	your local machine and to simply install Git and your preferred code editor with ESLint setup.
 	Or to develop on Gitpod, a free online development environment.
-<br>
-	<!--
-	For example, is it Gnu C++ on Linux?
-	Is it a Windows 10 application? Does one need to develop in a virtual machine?
-	-->
+
 
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
