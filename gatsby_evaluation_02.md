@@ -42,17 +42,18 @@ to find them? Do they seem easy (relatively speaking) to follow? <br>
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries? If so, are there clear instructions on how to install those? <br>
-	No, everything necessary comes with it.
+	No, but Gatsby is composed of multiple software working together, so it's installed in parts.
+	
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample. <br>
-	Generally good documentation, though some files lack any. I don't know Javascript but the code is relatively easy to understand.
+	The project generally has good documentation, though some files lack any. I don't know Javascript but the code is relatively easy to understand.
 
 1. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
-	Definitely a large project that is used a lot and very active.
+	Yes, it is definitely a large project that is widely used, updated and has a very active community around it.
 
 1. Does the repository have tests? If so, are the code contributors expected to write tests for newly added code? <br>
-	Yes the repository has tests. I believe everything is tested including new commits.
+	Yes the repository has tests. Quite certain that everything is tested including new commits.
 
 
 ## Code and Design Documentation
