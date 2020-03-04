@@ -69,9 +69,14 @@ Yes, it is a hughe project. It has 1.2 million lines of code
 Yes, there is a tests directory. However, the contributing.md file does not make any mention of adding tests.
 
 ## Code and Design Documentation
+
 1. Is there clear documentation in the code itself? <br>
 
+At the top of each file there is a preamble that gives the file name and license, but there are no comments in the code itself.
+
 1. Is there documentation about the design?  <br>
+
+Yes, the "Read the Docs" for Godot has a dedicated section called [Godot's design philosophy](https://docs.godotengine.org/en/stable/getting_started/step_by_step/godot_design_philosophy.html)
 
 
 ## Activity Level
@@ -79,40 +84,64 @@ Yes, there is a tests directory. However, the contributing.md file does not make
 
 1. How many commits have been made in the past week? <br>
 
+There have been a 164 commits since after Feb 25, 2020
+
 1. When was the most recent commit? <br>
+
+The latest commit was merging a pull request which aimed to fix an exception thrown when using the touch screen
 
 1. How many issues are currently open? <br>
 
+There are 5,539 issues still open
+
 1. How long do issues stay open? <br>
-	<!--
-	Take the five closed issues (they can be most recently closed or a sample distributed over time) and look at when each was first reported.
-	Compute the number of days that each was open and take the average.
-	-->
+	
+	Random sample (days remained open): 0, 1, 22, 3, 0
+
+	An average of 5 days
 
 1. Read the conversations from some open and some closed issues. Is there active discussion on the issues? <br>
+	
+	Yeah there is heavy discussion in some of the issues with community members asking for elaboration on certain issues or explaining how certain bugs are not actually bugs but expected behavior.
+
 
 1. Are issues tagged as easy, hard, for beginners, etc.? <br>
 
+	No issues are not tagged by difficulty, but all of the issues are tagged without missing a beat. Most issues fall under multiple tags and it all seems very detailed. Interestingly, there is a label named "junior job", perhpas implying the difficulty level of the issue
+
 1. How many issues were closed in the past six months? <br>
+	
+	[2,289 issues](https://github.com/godotengine/godot/issues?utf8=%E2%9C%93&q=is%3Aissue+closed%3A%3E%3D2019-09-03)
 
 1. Is there information about how many people are maintaining the project? <br>
+	The contributors section on the repository says 1,089 contributors of which 75 have contributed in the past month.
+
 
 1. How many contributors has the project had in the past six months? <br>
+	
+	52 contributors
+
 
 1. How many open pull requests are there? <br>
+	
+	622 open; 13,551 closed
 
 1. Do pull requests remain un-answered for a long time? <br>
-	<!--
-	Look at the closed pull requests to see how long they stayed open.
-	Take the five closed pull requests  (they can be most recently closed or a sample distributed over time) and look at when each was first created.
-	Compute the number of days that each was open and take the average.
-	-->
+	
+	No, they tend to be answered within the same day
 
 1. Read the conversations from some open and some closed pull requests.  Is there active discussion on the pull requests? <br>
 
+	Usually not, I assume that is because they are heavily discussed in the issues section beforehand.
+
 1. How many pull requests were opened within the past six months? <br>
 
+	[447 open; 1,871 closed](https://github.com/godotengine/godot/pulls?utf8=%E2%9C%93&q=sort%3Acreated-desc+created%3A%3E%3D2019-09-02+)
+
 1. When was the last  pull request  merged? <br>
+	
+	17 hours ago from time of writing
+
 
 ## Welcomeness and Community
 
