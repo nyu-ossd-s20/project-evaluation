@@ -1,9 +1,10 @@
-# Project Name:  <!-- replace with the project name -->   
+# Project Name:  Facebook Folly
 
 
 
 **Evaluating Person or Team**:
 <!-- list your first name and github user-name-->
+Terry       Moonsolol
 
 ---
 
@@ -15,9 +16,9 @@ What is the purpose of this project? What does the code do? What type of users
 does it have?
 -->
 
-1. Project website/homepage:
+1. Project website/homepage: No dedicated website/homepage, but there's a Google Groups: https://groups.google.com/forum/?fromgroups#!forum/facebook-folly
 
-1. Project repository:
+1. Project repository: https://github.com/facebook/folly
 
 
 
@@ -29,93 +30,99 @@ In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
 different licenses on specific files, but the project will have a main license.
 -->
-
+Apache License 2.0
 
 
 ## Code Base
 
 
 1. What is the primary programming language in the project?
+	C++
 
 1. What is the development environment? <br>
 	<!--
 	For example, is it Gnu C++ on Linux?
 	Is it a Windows 10 application? Does one need to develop in a virtual machine?
 	-->
+	Can develop in Homebrew, Mac, Windows and Linux using Ubuntu and fmt.
 
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
+	Yes, there are instructions. They are easy to follow.
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries? If so, are there clear instructions on how to install those? <br>
+	Relies on other libraries, there are clear instructions on how to install these.
 
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample. <br>
+	Code has many comments, some of them explaining the goals of the file and some saying what every function does. However, there are sections that have no comments at all. Sometimes easy to understand, sometimes not.
 
 1. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
+	Yes
 
 1. Does the repository have tests? If so, are the code contributors expected to write tests for newly added code? <br>
-
+	Yes, no.
 
 
 ## Code and Design Documentation
 1. Is there clear documentation in the code itself? <br>
-
+	Yes.
 1. Is there documentation about the design?  <br>
-
+	Yes.
 
 ## Activity Level
 
 
 1. How many commits have been made in the past week? <br>
-
+	19
 1. When was the most recent commit? <br>
-
+	March 3
 1. How many issues are currently open? <br>
-
+	171
 1. How long do issues stay open? <br>
 	<!--
 	Take the five closed issues (they can be most recently closed or a sample distributed over time) and look at when each was first reported.
 	Compute the number of days that each was open and take the average.
 	-->
-
+	8 days
 1. Read the conversations from some open and some closed issues. Is there active discussion on the issues? <br>
-
+	Depends on the issue, some issues have active discussion, some not.
 1. Are issues tagged as easy, hard, for beginners, etc.? <br>
-
+	No, however there are a few supplied issues for beginners that have already been solved, but are good learning material.
 1. How many issues were closed in the past six months? <br>
-
+	5
 1. Is there information about how many people are maintaining the project? <br>
-
+	No
 1. How many contributors has the project had in the past six months? <br>
-
+	48
 1. How many open pull requests are there? <br>
-
+	44
 1. Do pull requests remain un-answered for a long time? <br>
 	<!--
 	Look at the closed pull requests to see how long they stayed open.
 	Take the five closed pull requests  (they can be most recently closed or a sample distributed over time) and look at when each was first created.
 	Compute the number of days that each was open and take the average.
 	-->
-
+	Usually not, with certain exceptions
 1. Read the conversations from some open and some closed pull requests.  Is there active discussion on the pull requests? <br>
-
+	Yes
 1. How many pull requests were opened within the past six months? <br>
-
+	59
 1. When was the last  pull request  merged? <br>
-
+	February 20
 ## Welcomeness and Community
 
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
 Look through it and see if it is clear and thorough. <br>
-
+	Yes, easy to read and understand
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it? <br>
-
+	Yes, yes
 1. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive? Read the issue conversations. <br>
-
+	
 1. Are people friendly in the issues, discussion forum, and chat? <br>
 
 1. Do maintainers thank people for their contributions? <br>
