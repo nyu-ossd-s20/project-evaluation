@@ -12,11 +12,11 @@ Github: alifafaruk
 ## Project Data
 
 1. Project description: <br>
-<!--
-What is the purpose of this project? What does the code do? What type of users
-Astropy is a set of software packages, which are written in Python, that are for the purposes of astronomy. This project is intended for professional astronomers and astrophysicists, but can also be used by any person developing astronomy software. The purpose of the Astropy Project is to develope a single core package for Astronomy written in Python.
--->
-	Astropy is a set of software packages, which are written in Python, that are for the purposes of astronomy. This project is intend$
+	<!--
+	What is the purpose of this project? What does the code do? What type of users
+	Astropy is a set of software packages, which are written in Python, that are for the purposes of astronomy. This project is intended for professional astronomers and astrophysicists, but can also be used by any person developing astronomy software. The purpose of the Astropy Project is to develope a single core package for Astronomy written in Python.
+	-->
+	  Astropy is a set of software packages, which are written in Python, that are for the purposes of astronomy. This project is intend$
 
 1. Project website/homepage: https://www.astropy.org/
 
@@ -27,11 +27,11 @@ Astropy is a set of software packages, which are written in Python, that are for
 ## License
 
 1. What is the project's license? <br>
-<!--In most repositories there will be a file named LICENSE or something similar in
-	the root level of the repository. This is the one to examine. There may be
-	different licenses on specific files, but the project will have a main license.
--->
-	BSD 3-Clause "New" or "Revised" License
+	<!--In most repositories there will be a file named LICENSE or something similar in
+		the root level of the repository. This is the one to examine. There may be
+		different licenses on specific files, but the project will have a main license.
+	-->
+    BSD 3-Clause "New" or "Revised" License
 
 
 ## Code Base
