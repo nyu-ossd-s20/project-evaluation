@@ -10,11 +10,11 @@ Sijia (sm7515)
 
 1. Project description: <br>
 
-Open States strives to improve civic engagement at the state level by providing data and tools regarding state legislatures. They aim to serve members of the public, activist groups, journalists, and researchers with better data on what is happening in their state capital, and to provide tools to reduce barriers to participation and increase engagement.
+   Open States strives to improve civic engagement at the state level by providing data and tools regarding state legislatures. They aim to serve members of the public, activist groups, journalists, and researchers with better data on what is happening in their state capital, and to provide tools to reduce barriers to participation and increase engagement.
 
-Open States aggregates legislative information from all 50 states, Washington, D.C., and Puerto Rico. This information is then standardized, cleaned, and published to the public via OpenStates.org, a powerful API, and bulk downloads.
+   Open States aggregates legislative information from all 50 states, Washington, D.C., and Puerto Rico. This information is then standardized, cleaned, and published to the public via OpenStates.org, a powerful API, and bulk downloads.
 
-Bill, vote, legislator, and committee data is collected from official sources.
+   Bill, vote, legislator, and committee data is collected from official sources.
 
 1. Project website/homepage: https://openstates.org/
 
