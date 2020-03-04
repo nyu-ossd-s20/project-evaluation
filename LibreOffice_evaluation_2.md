@@ -1,9 +1,10 @@
-# Project Name:  <!-- replace with the project name -->   
+# Project Name: LibreOffice
 
 
 
 **Evaluating Person or Team**:
 <!-- list your first name and github user-name-->
+Prince - PrinceCarter
 
 ---
 
@@ -14,6 +15,8 @@
 What is the purpose of this project? What does the code do? What type of users
 does it have?
 -->
+Do more - easier, quicker, smarter.
+LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice). Its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.
 
 1. Project website/homepage: https://www.libreoffice.org/
 
@@ -32,51 +35,65 @@ different licenses on specific files, but the project will have a main license.
 
 Mozilla Public License v2.0
 
-
-
 ## Code Base
 
 
 1. What is the primary programming language in the project?
 
-c++, XML, Java
+C++
 
 1. What is the development environment? <br>
 	<!--
 	For example, is it Gnu C++ on Linux?
 	Is it a Windows 10 application? Does one need to develop in a virtual machine?
 	-->
+It varies depending on machine.
 
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
 
+There is a developer guide. It is relatively easy to follow.
+
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries? If so, are there clear instructions on how to install those? <br>
+
+For Mac, XCode is required.
+For Windows, Visual Studio is required.
+For Linux, there are many other dependencies.
 
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample. <br>
 
+It is relatively easy to understand.
+
 1. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 
+~10M line of code.
+
 1. Does the repository have tests? If so, are the code contributors expected to write tests for newly added code? <br>
+
+Yuh and yuh.
 
 
 
 ## Code and Design Documentation
 1. Is there clear documentation in the code itself? <br>
+Yuh.
 
 1. Is there documentation about the design?  <br>
+Yuh.
 
 
 ## Activity Level
-
-
 1. How many commits have been made in the past week? <br>
+264
 
 1. When was the most recent commit? <br>
+~1 hour ago
 
 1. How many issues are currently open? <br>
+Unsure.
 
 1. How long do issues stay open? <br>
 	<!--
@@ -85,6 +102,7 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 	-->
 
 1. Read the conversations from some open and some closed issues. Is there active discussion on the issues? <br>
+Yes there is.
 
 1. Are issues tagged as easy, hard, for beginners, etc.? <br>
 No difficulty rating, only issue "size".
@@ -143,7 +161,7 @@ From what I see, not really
 Install the development environment for the project on your system.
 Describe the process that you needed to follow:
 
-1. how involved was the process? <br>
+1. How involved was the process? <br>
 
 Not very involved. It is like downloading any other development environment.
 
@@ -151,23 +169,21 @@ Not very involved. It is like downloading any other development environment.
 
 ~5 mins
 
-1. did you need to install additional packages or libraries? <br>
+1. Did you need to install additional packages or libraries? <br>
 
 Nah.
 
-1. were you able to build the code following the instructions? <br>
+1. Were you able to build the code following the instructions? <br>
 
 Yuh.
 
-1. did you need to look for additional help in installing the environment? <br>
+1. Did you need to look for additional help in installing the environment? <br>
 
 Nah.
 
-1. any other comments? <br>
+1. Any other comments? <br>
 
 Nah.
-
-
 
 
 ## Summary
