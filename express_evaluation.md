@@ -1,23 +1,20 @@
-# Project Name:  <!-- replace with the project name -->   
+# Project Name:  ExpressJS  
 
 
 
 **Evaluating Person or Team**:
-<!-- list your first name and github user-name-->
+Julius nedjulius
 
 ---
 
 ## Project Data
 
 1. Project description: <br>
-<!--
-What is the purpose of this project? What does the code do? What type of users
-does it have?
--->
+As described in their repository, Express is a fast, unopinionated, minimalist web framework for NodeJS. It's purpose is to provide the most necessary tools for web development on NodeJS in a simple and easily accessible manner. The majority of the users are software engineers.
 
-1. Project website/homepage:
+1. Project website/homepage: https://expressjs.com
 
-1. Project repository:
+1. Project repository: https://github.com/expressjs/express
 
 
 
