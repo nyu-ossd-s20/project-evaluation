@@ -149,6 +149,7 @@ Describe the process that you needed to follow:
 
 1. did you need to look for additional help in installing the environment? <br>
     I had to search up how to install the packages for zbar and tesseract as the linux install name was not specifically listed.
+    There was basically no install instructions for Apache, and I encountered a lot of issues that I had to search up.
 
 1. any other comments? <br>
     I did not know to install Apache from source, I installed it using the terminal command initially. Which resulted in me spending a lot of time
