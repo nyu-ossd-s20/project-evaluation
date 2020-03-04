@@ -2,22 +2,17 @@
 
 
 
-**Evaluating Person or Team**:
+**Evaluating Person or Team**: Anthony Zeng - anthonyzeng99
 <!-- list your first name and github user-name-->
-Anthony Zeng - anthonyzeng99
 ---
 
 ## Project Data
 
 1. Project description: <br>
-Folly is a loose acronyme for Facebook Open Source Library. It's purpose it to publish the C++ tools that
-Facebook has created for their own internal use. They've created these components when they needed something
-that was not available. Their goal is that if these components are eventually integrated into the standard library
-they will remove it from Folly.
-<!--
-What is the purpose of this project? What does the code do? What type of users
-does it have?
--->
+	Folly is a loose acronym for Facebook Open Source Library. It's purpose it to publish the C++ tools that
+	Facebook has created for their own internal use. They've created these components when they needed something
+	that was not available. Their goal is that if these components are eventually integrated into the standard library
+	they will remove it from Folly.
 
 1. Project website/homepage: [Folly Google Group](https://groups.google.com/forum/?fromgroups#!forum/facebook-folly)
 
@@ -39,7 +34,8 @@ different licenses on specific files, but the project will have a main license.
 ## Code Base
 
 
-1. What is the primary programming language in the project? C++
+1. What is the primary programming language in the project? 
+C++
 
 1. What is the development environment? <br> 
 This library is compatible with most major operating system.
@@ -137,17 +133,17 @@ There are some with thanks.
 Install the development environment for the project on your system.
 Describe the process that you needed to follow:
 
-1. how involved was the process? <br>
+1. How involved was the process? <br>
 Installing with Mac OS with Homebrew was fairly simple.
-1. how long it take you? <br>
+1. How long it take you? <br>
 Using Homebrew was slow but may be faster with other methods.
-1. did you need to install additional packages or libraries? <br>
+1. Did you need to install additional packages or libraries? <br>
 Homebrew automatically install them but process is different for diffrent OS.
-1. were you able to build the code following the instructions? <br>
+1. Were you able to build the code following the instructions? <br>
 I'm unfamiliar with how to use their components.
-1. did you need to look for additional help in installing the environment? <br>
+1. Did you need to look for additional help in installing the environment? <br>
 No
-1. any other comments? <br>
+1. Any other comments? <br>
 No
 
 
@@ -158,9 +154,9 @@ in the course of a few weeks before the end of this semester? <br>
 	<!--
 	Explain your position. Do NOT simply say 'yes or 'no'.
 	-->
-If you know C++ it could be possible, it seems like they are mostly interesting in publishing their own work.
+	If you know C++ it could be possible, it seems like they are mostly interesting in publishing their own work.
 1. Would you be interested in contributing to this particular project? <br>
 	<!--
 	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
 	-->
-No, because I don't really know C++./
+	No, because I don't really know C++./
