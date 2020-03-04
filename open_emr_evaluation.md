@@ -41,7 +41,7 @@ OpenEMR is an open source solution to an electronic health records and medical p
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
 
-  Instructions for download, build, and installation can easily be found in the CONTRIBUTING.md file located in the main repository. The instructions are fairly straightforward as one just needs to clone the repository to their local machine and install Docker to build the project.
+   Instructions for download, build, and installation can easily be found in the CONTRIBUTING.md file located in the main repository. The instructions are fairly straightforward as one just needs to clone the repository to their local machine and install Docker to build the project.
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries? If so, are there clear instructions on how to install those? <br>
