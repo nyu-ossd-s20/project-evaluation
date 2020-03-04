@@ -8,11 +8,10 @@
 ## Project Data
 
 1. Project description: <br>
-
-  Open Food Facts is a food products database. It basically contains information on foods from all around the world
-  and allows anyone to add more foods to their database. Currently there are 1,173,440 products in the database.
-  I would imagine that their userbase contains people from all over the world, broadly encompassing as it is simply a search engine
-  for food.
+    Open Food Facts is a food products database. It basically contains information on foods from all around the world
+    and allows anyone to add more foods to their database. Currently there are 1,173,440 products in the database.
+    I would imagine that their userbase contains people from all over the world, broadly encompassing as it is simply a search engine
+    for food.
 
 1. Project website/homepage: <https://world.openfoodfacts.org/>
 
