@@ -26,7 +26,7 @@ does it have?
 
 ## License
 
-1. What is the project's license? <br>
+1. What is the project's license? __BSD 3-Clause License__<br>
 <!--
 In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
@@ -41,6 +41,12 @@ different licenses on specific files, but the project will have a main license.
 1. What is the primary programming language in the project? __JavaScript__ <br>
 
 1. What is the development environment? <br>
+
+There are [instructions](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/docs/how-to-setup-freecodecamp-locally.md)
+ to set up freeCodeCamp locally on your own system. They say to fork and clone the respository onto
+ your local machine and to simply install Git and your preferred code editor with ESLint setup.
+Or to develop on Gitpod, a free online development environment.
+<br>
 	<!--
 	For example, is it Gnu C++ on Linux?
 	Is it a Windows 10 application? Does one need to develop in a virtual machine?
@@ -49,8 +55,20 @@ different licenses on specific files, but the project will have a main license.
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
 
+Yes, [instructions](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/docs/how-to-setup-freecodecamp-locally.md)
+are here. Very easy to find them, as it is one of the first links on the CONTRIBUTING.md page. Instructions seem 
+pretty straightforward, and clean formatting helps.
+<br>
+
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries? If so, are there clear instructions on how to install those? <br>
+
+You can choose to run a Docker build (recommended) or a Local build to run freeCodeCamp locally. For both the
+Docker build and the Local build, the project needs Node.js installed. For Docker build, you need Docker software 
+as specified in instructions, and for the Local build the project needs MongoDB Community Server installed. 
+There aren't instructions on how to install these modules, though links to them are included, but there are 
+instructions on how to run these modules to properly setup the enviornment.
+<br>
 
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample. <br>
