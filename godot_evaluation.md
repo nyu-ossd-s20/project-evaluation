@@ -1,23 +1,21 @@
-# Project Name:  <!-- replace with the project name -->   
+# Project Name:  Godot Engine
 
 
 
 **Evaluating Person or Team**:
-<!-- list your first name and github user-name-->
+Nishant (@niniack)
 
 ---
 
 ## Project Data
 
 1. Project description: <br>
-<!--
-What is the purpose of this project? What does the code do? What type of users
-does it have?
--->
 
-1. Project website/homepage:
+Godot Engine is a "cross-platform game engine to create 2D and 3D games from a unified interface." It includes common tools for game creation so that users can focus develop their game without having to rebuild these tools. Users are those that would be interested in developing a 2D or 3D game that can be exported for multiple platforms. 
 
-1. Project repository:
+1. Project website/homepage: https://godotengine.org/
+
+1. Project repository: https://github.com/godotengine/godot
 
 
 
