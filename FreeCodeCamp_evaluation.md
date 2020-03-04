@@ -1,23 +1,26 @@
-# Project Name:  <!-- replace with the project name -->   
+# Project Name: FreeCodeCamp <!-- replace with the project name -->   
 
 
 
-**Evaluating Person or Team**:
+**Evaluating Person or Team**: Austin, austintian03
 <!-- list your first name and github user-name-->
 
 ---
 
 ## Project Data
 
-1. Project description: <br>
+1. Project description: FreeCodeCamp.org is a website housing a community dedicated to 
+helping people learn to code for free. It has a free full-stack web dev curriculum, that 
+offers certification upon completion, with many interactive challenges and lessons. Its 
+intended audience seems to be adults. <br>
 <!--
 What is the purpose of this project? What does the code do? What type of users
 does it have?
 -->
 
-1. Project website/homepage:
+1. Project website/homepage: [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
 
-1. Project repository:
+1. Project repository: [https://github.com/freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
 
 
@@ -35,7 +38,7 @@ different licenses on specific files, but the project will have a main license.
 ## Code Base
 
 
-1. What is the primary programming language in the project?
+1. What is the primary programming language in the project? __JavaScript__ <br>
 
 1. What is the development environment? <br>
 	<!--
