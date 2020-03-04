@@ -73,11 +73,27 @@ instructions on how to run these modules to properly setup the enviornment.
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample. <br>
 
+Well, I have little to no experiene in JavaScript so I can't say for sure, but at the very least the source code seems to have 
+clearly named variables and has good readability. There are no comments though. I only sort o 
+understand what the code file I'm looking at is doing, but that's largely my inexperience with 
+JavaScript. If someone who was familiar with JS looked at this, I have a feeling they'd probably 
+get the gist of it pretty easily.
+<br>
+
 1. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 
+The project has around 36,000 lines of code (as of 3 months ago according to OpenHub). There are 
+currently 4005 contributors (as of 3/4/2020).
+<br>
+
 1. Does the repository have tests? If so, are the code contributors expected to write tests for newly added code? <br>
 
+FreeCodeCamp require you to indicate if you have tested a modification before making a pull 
+request, saying this is very important for non-documentation related changes. On their 
+[How to work on coding challengs page](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/docs/how-to-work-on-coding-challenges.md) 
+they have detailed instructions on how to test code/function related changes.
+<br>
 
 
 ## Code and Design Documentation
