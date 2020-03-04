@@ -9,9 +9,11 @@ Kyle - fieldchicken
 
 ## Project Data
 
-1. Project description: <br>
-
+1. Project description:
   OpenEMR is an open source solution to an electronic health records and medical practice management system.
+<br>
+
+
 
 1. Project website/homepage: https://www.open-emr.org/
 
