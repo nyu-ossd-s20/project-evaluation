@@ -15,6 +15,7 @@ Terry       Moonsolol
 What is the purpose of this project? What does the code do? What type of users
 does it have?
 -->
+	It is a library of C++14 components used extensively at Facebook. Complements offerings such as Boost and std.
 
 1. Project website/homepage: No dedicated website/homepage, but there's a Google Groups: https://groups.google.com/forum/?fromgroups#!forum/facebook-folly
 
@@ -122,11 +123,11 @@ violate it? <br>
 	Yes, yes
 1. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive? Read the issue conversations. <br>
-	
+	There does not seem to be a lot of constructive responses in issues.
 1. Are people friendly in the issues, discussion forum, and chat? <br>
-
+	From what I've seen, yes, fairly friendly and professional.
 1. Do maintainers thank people for their contributions? <br>
-
+	I do not think so? I have not seen any thanks from maintainers.
 
 ## Development Environment Installation
 
@@ -134,17 +135,17 @@ Install the development environment for the project on your system.
 Describe the process that you needed to follow:
 
 1. how involved was the process? <br>
-
+	Fairly involved, since needed to download a lot of packages.
 1. how long it take you? <br>
-
+	Roughly 3-4 minutes, wait was mostly for downloading
 1. did you need to install additional packages or libraries? <br>
-
+	Yes.
 1. were you able to build the code following the instructions? <br>
-
+	Yes. 
 1. did you need to look for additional help in installing the environment? <br>
-
+	No.
 1. any other comments? <br>
-
+	No.
 
 
 
@@ -154,8 +155,9 @@ in the course of a few weeks before the end of this semester? <br>
 	<!--
 	Explain your position. Do NOT simply say 'yes or 'no'.
 	-->
-
+	Probably, it would depend on how much time I can afford to use to learn C++ and how this tool works with Facebook. If I am able to understand what is happening with the files and what I could do to improve the project, then yes.
 1. Would you be interested in contributing to this particular project? <br>
 	<!--
 	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
 	-->
+	I would be not be that interested in contributing to this project, as I do not use Facebook, and since this tool is specific to Facebook, it would not be of any use to me.
