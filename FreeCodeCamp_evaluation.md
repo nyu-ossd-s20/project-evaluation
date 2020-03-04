@@ -75,7 +75,7 @@ instructions on how to run these modules to properly setup the enviornment.
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample. <br>
 
-Well, I have little to no experiene in JavaScript so I can't say for sure, but at the very least the source code seems to have 
+Well, I have little to no experience in JavaScript so I can't say for sure, but at the very least the source code seems to have 
 clearly named variables and has good readability. There are no comments though. I only sort o 
 understand what the code file I'm looking at is doing, but that's largely my inexperience with 
 JavaScript. If someone who was familiar with JS looked at this, I have a feeling they'd probably 
@@ -108,8 +108,8 @@ No.
 
 1. Is there documentation about the design?  <br>
  There is design docs for how to contribute to the coding challenges codebase: a Challenge Template 
-exists in the ["How to work on coding challengs" page](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/docs/how-to-work-on-coding-challenges.md). 
-but there doesn't seem to be any docs on coding style.
+exists in the ["How to work on coding challengs" doc](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/docs/how-to-work-on-coding-challenges.md). 
+and there is also a JavaScript style guide linked to in the ["Set up freeCodeCamp locally" doc](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/docs/how-to-setup-freecodecamp-locally.md). 
 <br>
 
 ## Activity Level
@@ -153,9 +153,7 @@ month, which according to the stats is 54 closed issues from Feb 4th - Mar 4th. 
 <br>
 
 1. Is there information about how many people are maintaining the project? <br>
-They have a platform dev team listed in the Contribution guidelines that includes 3 people, and 
-they have various emails @freecodecamp.org they list if you have questions. But there doesn't seem 
-to be more than that about # of people maintaining the project.
+On the website About page, there's a picture of the freeCodeCamp Team with a caption that lists 7 names.
 <br>
 
 1. How many contributors has the project had in the past six months? <br>
@@ -196,31 +194,40 @@ Yes, quite clear and thorough.
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it? <br>
 
+CODE OF CONDUCT document links to the code of conducts page on [freeCodeCamp.org](https://www.freecodecamp.org/news/code-of-conduct/). 
+There are consequences for acts that violate it.
+<br>
+
 
 1. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive? Read the issue conversations. <br>
+Yes, and yes.
+<br>
 
 1. Are people friendly in the issues, discussion forum, and chat? <br>
+Yes
+<br>
 
 1. Do maintainers thank people for their contributions? <br>
-
+Yes
+<br>
 
 ## Development Environment Installation
 
 Install the development environment for the project on your system.
 Describe the process that you needed to follow:
 
-1. how involved was the process? <br>
+1. how involved was the process? Very involved. <br>
 
-1. how long it take you? <br>
+1. how long it take you? Around half an hour. <br>
 
-1. did you need to install additional packages or libraries? <br>
+1. did you need to install additional packages or libraries? Yes. Node.js and Docker.<br>
 
-1. were you able to build the code following the instructions? <br>
+1. were you able to build the code following the instructions? Yes. <br>
 
-1. did you need to look for additional help in installing the environment? <br>
+1. did you need to look for additional help in installing the environment? No. <br>
 
-1. any other comments? <br>
+1. any other comments? n/a <br>
 
 
 
@@ -231,8 +238,16 @@ in the course of a few weeks before the end of this semester? <br>
 	<!--
 	Explain your position. Do NOT simply say 'yes or 'no'.
 	-->
+There are many ways to contribute outside of just coding in JavaScript, so yes, I think I 
+would be able to contribute in the timeframe.
+<br>
 
 1. Would you be interested in contributing to this particular project? <br>
 	<!--
 	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
 	-->
+Possibly. I have been thinking about learning full-stack web development from freeCodeCamp's curriculum myself 
+(I've already started the HTML portion), so this project does interest me a lot as I think it is a very meaningful project. 
+Also, since the project is run on JavaScript and other web dev tools such as HTML, CSS, Node, it would be a good opportunity to 
+learn those more while I try contributing.
+<br>
