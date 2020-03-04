@@ -50,7 +50,7 @@ It requires ninja and meson to build. If you were to develop using ATK or make c
 
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
-The process for setting up the environment: 
+The process for setting up the environment is described in the repo README: 
 	1. Clone or download the source code.
 	2. Install meson and ninja using a package manager. These are both build systems.
 	3. Call $ meson build
@@ -61,7 +61,7 @@ It wasn't particularly hard to follow, but I had to hunt down some dependencies 
 	
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries? If so, are there clear instructions on how to install those? <br>
-You have to have meson and ninja installed. You also have to have python and pip installed in order to install meson. I needed to install gobject-introspection, libgtk2.0-dev, and glib on ubuntu 18.04.
+You have to have meson and ninja installed. You also have to have python and pip installed in order to install meson. I needed to install gobject-introspection, libgtk2.0-dev, and glib on ubuntu 18.04. There aren't really instructions on how to install these, but it should be easy to figure it out.
 
 
 
