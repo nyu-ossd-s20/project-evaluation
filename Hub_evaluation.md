@@ -116,20 +116,18 @@ Install the development environment for the project on your system.
 Describe the process that you needed to follow:
 
 1. how involved was the process? <br>
-It shouldnt normally be that hard, details to follow
+Mostly super simple, except for some minor assumptions thye make.
 1. how long it take you? <br>
-About a Minute
+Like 5-10 minutes, for multiple installs
 1. did you need to install additional packages or libraries? <br>
-Can use a command line package manager, multiple options to pick from, or download an
-executable directly
+Had to install some runtime envoronments for Go and Ruby.  That and ruby bundler.
 1. were you able to build the code following the instructions? <br>
-... no.  Running the executable failed immediately.
+No, there are some additional setup instructions in the ReadMe. 
 1. did you need to look for additional help in installing the environment? <br>
-Were I to try more Id say yes, but I have no idea what the problem could really be.
+A little bit.  Having never used ruby, I didn't know what bundler was.  (Ruby version manager, makes it so not everyone needs to match up)  But it was easy enough to google it.
 1. any other comments? <br>
-The windows install seems to be managed separately, so its likely MacOs and Linux versions are better
-maintained.
-
+Pretty sparse, but I guess thats ok given how simple it is.  Still contribute to the overall feeling that this isn't a 
+beginner friendly project though.
 
 
 ## Summary
