@@ -22,11 +22,7 @@ Godot Engine is a "cross-platform game engine to create 2D and 3D games from a u
 ## License
 
 1. What is the project's license? <br>
-<!--
-In most repositories there will be a file named LICENSE or something similar in
-the root level of the repository. This is the one to examine. There may be
-different licenses on specific files, but the project will have a main license.
--->
+MIT License
 
 
 
@@ -34,28 +30,43 @@ different licenses on specific files, but the project will have a main license.
 
 
 1. What is the primary programming language in the project?
+	The project is almost exclusively written in C++ (92%), with a little bit of Java, C#, Python (roughly 1-2% each)
 
 1. What is the development environment? <br>
-	<!--
-	For example, is it Gnu C++ on Linux?
-	Is it a Windows 10 application? Does one need to develop in a virtual machine?
-	-->
+
+	Godot uses SCons, which is an "Open Source software construction tool"
+
+	This means Godot can be compiled in several different platforms, with SCons and Python 2.7+/3.5+ installed.  
+	For Windows: Visual Studio OR MinGW-w64 with GCC
+	For Linux: GCC or Clang 
+	For OSX: Xcode
+	For Android: Android SDK, Android NDK r17+, and JDK 8
+	For iOS: Xcod 10.0, iOS SDK
 
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
 
+Yes, all of the instructions, including a justification for using SCons, for compilation can be found at https://docs.godotengine.org/en/latest/development/compiling/index.html. Instructions provide shell code snippets and screenshots as a supplement.
+
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries? If so, are there clear instructions on how to install those? <br>
+
+Yes, the project depends on additional modules, which are accounted for in the installation instructions.
+
 
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample. <br>
 
+The code is not necessarily easy to understand off the bat, but it seems that with some dedicated reading and understanding the philoshopy of the design, it may be possible to eventually understand. The code is very well organized and unsurprisingly follows good practices (for example splitting header/implementation)
+
 1. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 
+Yes, it is a hughe project. It has 1.2 million lines of code 
+
 1. Does the repository have tests? If so, are the code contributors expected to write tests for newly added code? <br>
 
-
+Yes, there is a tests directory. However, the contributing.md file does not make any mention of adding tests.
 
 ## Code and Design Documentation
 1. Is there clear documentation in the code itself? <br>
