@@ -11,12 +11,8 @@ Prince (@PrinceCarter)
 ## Project Data
 
 1. Project description: <br>
-<!--
-What is the purpose of this project? What does the code do? What type of users
-does it have?
--->
-        Do more - easier, quicker, smarter.
-        LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice). Its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.
+
+	Do more - easier, quicker, smarter. LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org 	(commonly known as OpenOffice). Its clean interface and feature-rich tools help you unleash your creativity and enhance your 	productivity.
 
 1. Project website/homepage: https://www.libreoffice.org/
 
@@ -27,27 +23,19 @@ does it have?
 ## License
 
 1. What is the project's license? <br>
-<!--
-In most repositories there will be a file named LICENSE or something similar in
-the root level of the repository. This is the one to examine. There may be
-different licenses on specific files, but the project will have a main license.
--->
-
-        Mozilla Public License v2.0
+	
+	Mozilla Public License v2.0
 
 ## Code Base
 
 
 1. What is the primary programming language in the project?
 
-        C++
+	C++
 
 1. What is the development environment? <br>
-	<!--
-	For example, is it Gnu C++ on Linux?
-	Is it a Windows 10 application? Does one need to develop in a virtual machine?
-	-->
-        It varies depending on machine.
+
+	It varies depending on machine.
 
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
@@ -131,11 +119,7 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 	~400
 
 1. Do pull requests remain un-answered for a long time? <br>
-	<!--
-	Look at the closed pull requests to see how long they stayed open.
-	Take the five closed pull requests  (they can be most recently closed or a sample distributed over time) and look at when each was first created.
-	Compute the number of days that each was open and take the average.
-	-->
+
 	The average wait time for a pull request is ~5 hours.
 
 1. Read the conversations from some open and some closed pull requests.  Is there active discussion on the pull requests? <br>
@@ -144,7 +128,7 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 
 1. How many pull requests were opened within the past six months? <br>
 	
-	>10,000
+	10,000+
 
 1. When was the last pull request merged? <br>
 	
