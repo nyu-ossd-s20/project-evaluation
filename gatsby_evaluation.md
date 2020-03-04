@@ -1,124 +1,123 @@
-# Project Name:  <!-- replace with the project name -->   
+# Project Name:  Gatsby.js
 
 
 
 **Evaluating Person or Team**:
-<!-- list your first name and github user-name-->
+Muying Li
 
 ---
 
 ## Project Data
 
-1. Project description: <br>
-<!--
-What is the purpose of this project? What does the code do? What type of users
-does it have?
--->
+- Project description: <br>
 
-1. Project website/homepage:
+  Gatsby is a free and open source *JavaScript framework* based on React to build blazing fast websites and apps. Gatsby is a Progressive Web App that only loads critical data, in which most latest web technologies such as React.js, Webpack, JavaScript, CSS and moren APIs, and rich data plugin system are integral, it enables *web app developers* to build really fast website.
 
-1. Project repository:
+- Project website/homepage: [gatsbyjs.org](https://www.gatsbyjs.org/)
+
+- Project repository: [gatsby](https://github.com/gatsbyjs/gatsby)
 
 
 
 ## License
 
-1. What is the project's license? <br>
-<!--
-In most repositories there will be a file named LICENSE or something similar in
-the root level of the repository. This is the one to examine. There may be
-different licenses on specific files, but the project will have a main license.
--->
+- What is the project's license?<br>[MIT](https://github.com/gatsbyjs/gatsby/blob/master/LICENSE)<br>
 
 
 
 ## Code Base
 
+- What is the primary programming language in the project?<br>
+		JavaScript (93.9%)
 
-1. What is the primary programming language in the project?
+-  What is the development environment? <br>
+		Node.js and Git
 
-1. What is the development environment? <br>
-	<!--
-	For example, is it Gnu C++ on Linux?
-	Is it a Windows 10 application? Does one need to develop in a virtual machine?
-	-->
+- Are there instructions for how to download, build, and install? How easy is it
+  to find them? Do they seem easy (relatively speaking) to follow? <br>
+	Yes. It is super easy to find andf follow since Gatsby's second tab is the Tutorials which help the users set up the environment step-by-step. The tutorial is very well-organized also.
 
-1. Are there instructions for how to download, build, and install? How easy is it
-to find them? Do they seem easy (relatively speaking) to follow? <br>
+- Does the project depend on external additional software modules such as
+  database,  graphics, web development, or other libraries? If so, are there clear instructions on how to install those? <br>
 
-1. Does the project depend on external additional software modules such as
-database,  graphics, web development, or other libraries? If so, are there clear instructions on how to install those? <br>
+  No. Gatsby sets up everything for the users already.
 
-1. Is the code easy to understand? Browse some source code files and make
-a judgment based on your random sample. <br>
+- Is the code easy to understand? Browse some source code files and make
+  a judgment based on your random sample. <br>
 
-1. Is this a big project? If you can, find out about how many lines of code
-are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
+  Yes. I viewed several files and they are all documented detaily. Especially in files in examples folder, the number of total lines of documentation seems even more than the one of the actual code. Nonetheless, some files are code-only, which means they are lack of any documentation. But again, the code itself is still clear and easy for understanding.
 
-1. Does the repository have tests? If so, are the code contributors expected to write tests for newly added code? <br>
+- Is this a big project? If you can, find out about how many lines of code
+  are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
+
+  I think so. On OpenHub, it says Gatsby has 172K lines of code.
+
+- Does the repository have tests? If so, are the code contributors expected to write tests for newly added code? <br>
+
+    Yes and yes. In [e2e-tests](https://github.com/gatsbyjs/gatsby/tree/master/e2e-tests)'s README.md, it says the tests are automatically run whenever the *packages/* or *e2e-tests/* directory is changed in a commit.
 
 
 
 ## Code and Design Documentation
-1. Is there clear documentation in the code itself? <br>
+- Is there clear documentation in the code itself? <br>Yes.
+- Is there documentation about the design?  <br>Yes. There are layout related files, for example, [click me](starters/default/src/components/layout.css).
 
-1. Is there documentation about the design?  <br>
 
 
 ## Activity Level
 
 
-1. How many commits have been made in the past week? <br>
+- How many commits have been made in the past week? <br>More than 2 pages of commits (about 100 times).
 
-1. When was the most recent commit? <br>
+- When was the most recent commit? <br>
 
-1. How many issues are currently open? <br>
+  Today, March 3rd, about 8:00PM.
 
-1. How long do issues stay open? <br>
-	<!--
-	Take the five closed issues (they can be most recently closed or a sample distributed over time) and look at when each was first reported.
-	Compute the number of days that each was open and take the average.
-	-->
+- How many issues are currently open? <br>594.
 
-1. Read the conversations from some open and some closed issues. Is there active discussion on the issues? <br>
+- How long do issues stay open? <br>Usually in a day, some were less than 15 hours and some took 2 days.
+	
+- Read the conversations from some open and some closed issues. Is there active discussion on the issues? <br>Yes.
 
-1. Are issues tagged as easy, hard, for beginners, etc.? <br>
+- Are issues tagged as easy, hard, for beginners, etc.? <br>Easy with descriptions.
 
-1. How many issues were closed in the past six months? <br>
+- How many issues were closed in the past six months? <br>1243.
 
-1. Is there information about how many people are maintaining the project? <br>
+- Is there information about how many people are maintaining the project? <br>I didn't find it.
 
-1. How many contributors has the project had in the past six months? <br>
+- How many contributors has the project had in the past six months? <br>97.
 
-1. How many open pull requests are there? <br>
+- How many open pull requests are there? <br>128.
 
-1. Do pull requests remain un-answered for a long time? <br>
-	<!--
-	Look at the closed pull requests to see how long they stayed open.
-	Take the five closed pull requests  (they can be most recently closed or a sample distributed over time) and look at when each was first created.
-	Compute the number of days that each was open and take the average.
-	-->
+- Do pull requests remain un-answered for a long time? <br>No. Pull requests usually will be closed within a day.
+	
+- Read the conversations from some open and some closed pull requests.  Is there active discussion on the pull requests? <br>Yes.
 
-1. Read the conversations from some open and some closed pull requests.  Is there active discussion on the pull requests? <br>
+- How many pull requests were opened within the past six months? <br>
 
-1. How many pull requests were opened within the past six months? <br>
+  100 open, 1422 closed.
 
-1. When was the last  pull request  merged? <br>
+- When was the last  pull request  merged? <br>
+
+  Today, March 3rd, 5:00PM.
 
 ## Welcomeness and Community
 
-1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
-Look through it and see if it is clear and thorough. <br>
+- Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
+Look through it and see if it is clear and thorough. <br>Yes. There are so many ways to contribute and each of them are easy to follow with documentation.
 
-1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
-violate it? <br>
+- Is there a CODE OF CONDUCT document? Does it have consequences for acts that violate it? <br>Yes. Project maintainers who do not follow or enforce the  Code of Conduct in good faith may face temporary or permanent  repercussions as determined by other members of the project’s  leadership.<br>
 
-1. Do the maintainers respond helpfully to questions in issues?
-Are responses generally constructive? Read the issue conversations. <br>
+  When faced with repeated bad faith comments or harassment after an earnest attempt to mediate an issue, the Gatsby team reserves the right to remove someone from the GitHub  repository and/or block them on social media. This decision will always  be made with consensus from more than one team member. ([Reference](https://www.gatsbyjs.org/contributing/code-of-conduct/))
 
-1. Are people friendly in the issues, discussion forum, and chat? <br>
+- Do the maintainers respond helpfully to questions in issues?
+Are responses generally constructive? Read the issue conversations. <br>Yes. I checked multiple closed issues, and most of them are ended with a big thanks. 
 
-1. Do maintainers thank people for their contributions? <br>
+- Are people friendly in the issues, discussion forum, and chat? <br>Yes.
+
+- Do maintainers thank people for their contributions? <br>Yes.
+
+
 
 
 ## Development Environment Installation
@@ -126,29 +125,23 @@ Are responses generally constructive? Read the issue conversations. <br>
 Install the development environment for the project on your system.
 Describe the process that you needed to follow:
 
-1. how involved was the process? <br>
+- how involved was the process? <br>I could not install it successfully since it says there is a permission problem. But I upgraded my git...
 
-1. how long it take you? <br>
+- how long it take you? <br>It took me a while since I have to update my git version. But installing Gatsby CLI did not take a long time.
 
-1. did you need to install additional packages or libraries? <br>
+- did you need to install additional packages or libraries? <br>No.
 
-1. were you able to build the code following the instructions? <br>
+- were you able to build the code following the instructions? <br>No.
 
-1. did you need to look for additional help in installing the environment? <br>
+- did you need to look for additional help in installing the environment? <br>Yes (for updating git).
 
-1. any other comments? <br>
+- any other comments? <br>I could not directly download the latest verision of git and there is always a permission error while I was installing Gatsby CLI.
 
 
 
 
 ## Summary
-1. Do you think  this is a project to which it would be possible to contribute
-in the course of a few weeks before the end of this semester? <br>
-	<!--
-	Explain your position. Do NOT simply say 'yes or 'no'.
-	-->
-
-1. Would you be interested in contributing to this particular project? <br>
-	<!--
-	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
-	-->
+- Do you think this is a project to which it would be possible to contribute
+in the course of a few weeks before the end of this semester? <br>From my installing exprience, I believe so. It might need to present how to deal with the errors that might appear during installing process, which we can contribute to it.
+	
+- Would you be interested in contributing to this particular project? <br>This project appeals to me since I'm very interested in web development and I took Applied Internet Technology last semester which provided me basics about Node.js. Also, it is a great opportunity for me to familiar myself with React.js which I barely know.
