@@ -26,7 +26,9 @@ does it have?
 
 ## License
 
-1. What is the project's license? __BSD 3-Clause License__<br>
+1. What is the project's license? <br>
+The main license is __BSD 3-Clause__ license whereas the learning resources in the /curriculum
+directory is under the __CC-BY-SA-4.0__ license.
 <!--
 In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
@@ -91,45 +93,80 @@ currently 4005 contributors (as of 3/4/2020).
 
 FreeCodeCamp require you to indicate if you have tested a modification before making a pull 
 request, saying this is very important for non-documentation related changes. On their 
-[How to work on coding challengs page](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/docs/how-to-work-on-coding-challenges.md) 
-they have detailed instructions on how to test code/function related changes.
+["How to work on coding challengs" page](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/docs/how-to-work-on-coding-challenges.md) 
+they have detailed instructions on how to test code/function related changes. 
+
+There is also a ["DevOps at freeCodeCamp" page](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/docs/devops.md) that 
+talks about and has instructions on building/testing/deploying the codebase.
 <br>
 
 
 ## Code and Design Documentation
 1. Is there clear documentation in the code itself? <br>
+No.
+<br>
 
 1. Is there documentation about the design?  <br>
-
+ There is design docs for how to contribute to the coding challenges codebase: a Challenge Template 
+exists in the ["How to work on coding challengs" page](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/docs/how-to-work-on-coding-challenges.md). 
+but there doesn't seem to be any docs on coding style.
+<br>
 
 ## Activity Level
 
 
 1. How many commits have been made in the past week? <br>
 
+19 commits was made the week of Sunday Feb 23rd - Saturday Feb 29th, and 5 commits have been made 
+the week of Mar 1st so far (as of 1:04pm Mar 4th).
+<br>
+
 1. When was the most recent commit? <br>
 
+Most recent commit was Tuesday Mar 3rd.
+<br>
+
 1. How many issues are currently open? <br>
+166 open issues.
+<br>
 
 1. How long do issues stay open? <br>
+An average of 1.8 days.
+<br>
 	<!--
 	Take the five closed issues (they can be most recently closed or a sample distributed over time) and look at when each was first reported.
 	Compute the number of days that each was open and take the average.
 	-->
 
 1. Read the conversations from some open and some closed issues. Is there active discussion on the issues? <br>
+Yes there is. There seems to be same day responses for a lot of them, and are usually promptly resolved or has active discussion 
+for issues that take a bit longer to resolve.
+<br>
 
 1. Are issues tagged as easy, hard, for beginners, etc.? <br>
+There is a "first timers welcome" tag.
+<br>
 
 1. How many issues were closed in the past six months? <br>
+There is no easy way to find this information. GitHub's analytics only seems to track up to the past 
+month, which according to the stats is 54 closed issues from Feb 4th - Mar 4th. (I'm not hand counting the issue tracker.)
+<br>
 
 1. Is there information about how many people are maintaining the project? <br>
+They have a platform dev team listed in the Contribution guidelines that includes 3 people, and 
+they have various emails @freecodecamp.org they list if you have questions. But there doesn't seem 
+to be more than that about # of people maintaining the project.
+<br>
 
 1. How many contributors has the project had in the past six months? <br>
-
+Can't find it. The insights tab's Contributors section lists 20 contributors to master for the past 6 months. 
+However, the Pulse section under insights says 54 authors over the past month to master and many branches.
+<br>
 1. How many open pull requests are there? <br>
-
+84
+<br>
 1. Do pull requests remain un-answered for a long time? <br>
+Usually same day or within one day.
 	<!--
 	Look at the closed pull requests to see how long they stayed open.
 	Take the five closed pull requests  (they can be most recently closed or a sample distributed over time) and look at when each was first created.
@@ -137,18 +174,28 @@ they have detailed instructions on how to test code/function related changes.
 	-->
 
 1. Read the conversations from some open and some closed pull requests.  Is there active discussion on the pull requests? <br>
+On pull requests that took longer than same day to close, there is active discussion and feedback on the pull request on how to improve 
+the pull requests. Otherwise, there is a Gitpod tester bot that tests the pull request and if it works they often get approved, if not then not approved. 
+<br>
 
 1. How many pull requests were opened within the past six months? <br>
+GitHub stats only shows up to past month. If I were to estimate based off going through the pages in the Pull Requests tab, over 1000 have been opened since September 3rd.
+<br>
 
 1. When was the last  pull request  merged? <br>
-
+Yesterday.
+<br>
 ## Welcomeness and Community
 
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
 Look through it and see if it is clear and thorough. <br>
 
+Yes, quite clear and thorough.
+<br>
+
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it? <br>
+
 
 1. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive? Read the issue conversations. <br>
