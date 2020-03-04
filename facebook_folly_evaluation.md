@@ -82,10 +82,6 @@ An hour ago.
 1. How many issues are currently open? <br>
 171
 1. How long do issues stay open? <br>
-	<!--
-	Take the five closed issues (they can be most recently closed or a sample distributed over time) and look at when each was first reported.
-	Compute the number of days that each was open and take the average.
-	-->
 They seem to resolve them in about a day for most closed issues.
 1. Read the conversations from some open and some closed issues. Is there active discussion on the issues? <br>
 There are some dicussions but many issues are closed without discussion.
