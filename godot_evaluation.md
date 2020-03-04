@@ -11,7 +11,7 @@ Nishant (@niniack)
 
 1. Project description: <br>
 
-Godot Engine is a "cross-platform game engine to create 2D and 3D games from a unified interface." It includes common tools for game creation so that users can focus develop their game without having to rebuild these tools. Users are those that would be interested in developing a 2D or 3D game that can be exported for multiple platforms. 
+	Godot Engine is a "cross-platform game engine to create 2D and 3D games from a unified interface." It includes common tools for game creation so that users can focus develop their game without having to rebuild these tools. Users are those that would be interested in developing a 2D or 3D game that can be exported for multiple platforms. 
 
 1. Project website/homepage: https://godotengine.org/
 
@@ -22,7 +22,7 @@ Godot Engine is a "cross-platform game engine to create 2D and 3D games from a u
 ## License
 
 1. What is the project's license? <br>
-MIT License
+	MIT License
 
 
 ## Code Base
@@ -45,37 +45,37 @@ MIT License
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
 
-Yes, all of the instructions, including a justification for using SCons, for compilation can be found at https://docs.godotengine.org/en/latest/development/compiling/index.html. Instructions provide shell code snippets and screenshots as a supplement.
+	Yes, all of the instructions, including a justification for using SCons, for compilation can be found at https://docs.godotengine.org/en/latest/development/compiling/index.html. Instructions provide shell code snippets and screenshots as a supplement.
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries? If so, are there clear instructions on how to install those? <br>
 
-Yes, the project depends on additional modules, which are accounted for in the installation instructions.
+	Yes, the project depends on additional modules, which are accounted for in the installation instructions.
 
 
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample. <br>
 
-The code is not necessarily easy to understand off the bat, but it seems that with some dedicated reading and understanding the philoshopy of the design, it may be possible to eventually understand. The code is very well organized and unsurprisingly follows good practices (for example splitting header/implementation)
+	The code is not necessarily easy to understand off the bat, but it seems that with some dedicated reading and understanding the philoshopy of the design, it may be possible to eventually understand. The code is very well organized and unsurprisingly follows good practices (for example splitting header/implementation)
 
 1. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 
-Yes, it is a hughe project. It has 1.2 million lines of code 
+	Yes, it is a hughe project. It has 1.2 million lines of code 
 
 1. Does the repository have tests? If so, are the code contributors expected to write tests for newly added code? <br>
 
-Yes, there is a tests directory. However, the contributing.md file does not make any mention of adding tests.
+	Yes, there is a tests directory. However, the contributing.md file does not make any mention of adding tests.
 
 ## Code and Design Documentation
 
 1. Is there clear documentation in the code itself? <br>
 
-At the top of each file there is a preamble that gives the file name and license, but there are no comments in the code itself.
+	At the top of each file there is a preamble that gives the file name and license, but there are no comments in the code itself.
 
 1. Is there documentation about the design?  <br>
 
-Yes, the "Read the Docs" for Godot has a dedicated section called [Godot's design philosophy](https://docs.godotengine.org/en/stable/getting_started/step_by_step/godot_design_philosophy.html)
+	Yes, the "Read the Docs" for Godot has a dedicated section called [Godot's design philosophy](https://docs.godotengine.org/en/stable/getting_started/step_by_step/godot_design_philosophy.html)
 
 
 ## Activity Level
@@ -83,15 +83,15 @@ Yes, the "Read the Docs" for Godot has a dedicated section called [Godot's desig
 
 1. How many commits have been made in the past week? <br>
 
-There have been a 164 commits since after Feb 25, 2020
+	There have been a 164 commits since after Feb 25, 2020
 
 1. When was the most recent commit? <br>
 
-The latest commit was merging a pull request which aimed to fix an exception thrown when using the touch screen
+	The latest commit was merging a pull request which aimed to fix an exception thrown when using the touch screen
 
 1. How many issues are currently open? <br>
 
-There are 5,539 issues still open
+	There are 5,539 issues still open
 
 1. How long do issues stay open? <br>
 	
@@ -176,29 +176,36 @@ Are responses generally constructive? Read the issue conversations. <br>
 Install the development environment for the project on your system.
 Describe the process that you needed to follow:
 
-1. how involved was the process? <br>
+1. How involved was the process? <br>
+	
+	I was able to download the binary for my operating system and execute the application 
 
-1. how long it take you? <br>
+1. How long it take you? <br>
 
-1. did you need to install additional packages or libraries? <br>
+	Less than a minute
 
-1. were you able to build the code following the instructions? <br>
+1. Did you need to install additional packages or libraries? <br>
 
-1. did you need to look for additional help in installing the environment? <br>
+	No.
 
-1. any other comments? <br>
+1. Were you able to build the code following the instructions? <br>
+	
+	There are instructions for buidling from source (although it is not necessary). I wasn't able to build the code immediately, I ran into issues with lvm2, which is a system for managing filesystems.
 
+	Otherwise, yes, although, it took a while to build from source code and was heavy on my computing resources.
 
+1. Did you need to look for additional help in installing the environment? <br>
+	I had to look up instructions how to resolve lvm2 package error issues.
+
+1. Any other comments? <br>
 
 
 ## Summary
 1. Do you think  this is a project to which it would be possible to contribute
 in the course of a few weeks before the end of this semester? <br>
-	<!--
-	Explain your position. Do NOT simply say 'yes or 'no'.
-	-->
+	
+	No, I think, it is an incredibly large project that would require quite a bit of knowledge of game design. Plus, there is likely quite a bit of overhead in testing any code contributions. 
 
 1. Would you be interested in contributing to this particular project? <br>
-	<!--
-	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
-	-->
+	
+	No, I have little to no interest and non-existent knowledge of game design. I feel that it would be a very frustrating experience to try to contribute to the project within the time period of the class as most of it would be spent learning the ins and outs of the project, leaving very little time for any contributions, even if they are primarily documentation contributions.
