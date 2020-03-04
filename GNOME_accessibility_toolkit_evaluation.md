@@ -1,8 +1,8 @@
-# Project Name:  <!-- replace with the project name -->   
+# Project Name: GNOME Accessibility Toolkit   
 
 
 
-**Evaluating Person or Team**:
+**Evaluating Person or Team**: Charlie Thomas - Charleshthomasiii
 <!-- list your first name and github user-name-->
 
 ---
@@ -10,20 +10,23 @@
 ## Project Data
 
 1. Project description: <br>
+
+The GNOME Accessibility Toolkit, or ATK, provides 'the set of accessibility interfaces that are implemented by other toolkits and applications. Using the ATK interfaces, accessibility tools have full access to view and control running applications.' For example, if I am creating a graphical application with GTK, it is exposed to things tools like braille readers and screen readers because GTK implements ATK. https://developer.gnome.org/accessibility-devel-guide/stable/figures/gaa.jpg.en
 <!--
 What is the purpose of this project? What does the code do? What type of users
 does it have?
 -->
 
-1. Project website/homepage:
+1. Project website/homepage: https://developer.gnome.org/atk/
 
-1. Project repository:
+1. Project repository: https://github.com/GNOME/atk
 
 
 
 ## License
 
-1. What is the project's license? <br>
+1. What is the project's license? <br> GNU LIBRARY GENERAL PUBLIC LICENSE
+		       Version 2
 <!--
 In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
@@ -35,9 +38,9 @@ different licenses on specific files, but the project will have a main license.
 ## Code Base
 
 
-1. What is the primary programming language in the project?
+1. What is the primary programming language in the project? C
 
-1. What is the development environment? <br>
+1. What is the development environment? <br> This is a C library, so if it's compiled with GCC it can be run anywhere.
 	<!--
 	For example, is it Gnu C++ on Linux?
 	Is it a Windows 10 application? Does one need to develop in a virtual machine?
@@ -45,12 +48,23 @@ different licenses on specific files, but the project will have a main license.
 
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
-
+The process for setting up the environment: 
+	1. Clone or download the source code.
+	2. Install meson and ninja. These are both build systems.
+	3. Call $ meson build
+    		$ ninja -C build
+    		$ ninja -C build install
+	
+	
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries? If so, are there clear instructions on how to install those? <br>
+You have to have meson and ninja installed. You also have to have python and pip installed in order to install meson. I needed to install gobject-introspection and libgtk2.0-dev as well on ubuntu.
+
+
 
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample. <br>
+After looking through the source code, I have a better understanding of how it is all put together. However, I don't have much experience with programming in 
 
 1. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
