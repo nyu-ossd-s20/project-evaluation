@@ -2,7 +2,7 @@
 
 
 
-**Evaluating Person or Team**: Charlie Thomas - Charleshthomasiii
+**Evaluating Person or Team**: Charlie Thomas - https://github.com/Charleshthomasiii
 <!-- list your first name and github user-name-->
 
 ---
