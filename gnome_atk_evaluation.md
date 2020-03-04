@@ -44,7 +44,7 @@ Building instructions, as well as download link are provided in the README file.
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries? If so, are there clear instructions on how to install those? <br>
-ATK has a GTK dependency, which is a toolkit for UI components. There are no clear instructions on how to install this dependency, just a link to their website (people are supposed to follow GTK's provided steps).
+ATK has a GLib dependency, which is a toolkit for UI components. There are no clear instructions on how to install this dependency, it is installed during the build, or it can be installed manually by following the instructions on GTK.org website.
 
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample. <br>
@@ -139,16 +139,22 @@ Install the development environment for the project on your system.
 Describe the process that you needed to follow:
 
 1. how involved was the process? <br>
+It was quite easy and I didn't have to do much, although two out of three provided build methods did not work for me.
 
 1. how long it take you? <br>
+Around 5 minutes.
 
 1. did you need to install additional packages or libraries? <br>
+No.
 
 1. were you able to build the code following the instructions? <br>
+Yes.
 
 1. did you need to look for additional help in installing the environment? <br>
+No.
 
 1. any other comments? <br>
+The build was successful with only one of the provided build methods (meson), it didn't work with the other.
 
 
 
@@ -156,11 +162,7 @@ Describe the process that you needed to follow:
 ## Summary
 1. Do you think  this is a project to which it would be possible to contribute
 in the course of a few weeks before the end of this semester? <br>
-	<!--
-	Explain your position. Do NOT simply say 'yes or 'no'.
-	-->
+I think yes, because the community is not that big, and the project size is not enormous. It seemed that each toolkit had different C files, so it was easy to contribute to different parts of the whole project. I also think that, since it has such poor documentation, someone could easily contribute to that.
 
 1. Would you be interested in contributing to this particular project? <br>
-	<!--
-	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
-	-->
+I don't think I would, because personally this project has nothing to do with my interests. Even though this project has a very meaningful aspiration (improve the computer experience to people with disabilities), I know almost nothing about GNOME environment for which this tool is developed, and I have no idea how accessibility tools work. It would be interesting to learn more about that, but I don't feel like I want to dedicade any of my time to such a project. I would rather work on something that has more meaning and usefulness to me.
