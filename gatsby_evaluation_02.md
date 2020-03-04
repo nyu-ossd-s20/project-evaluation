@@ -30,11 +30,11 @@
 ## Code Base
 
 
-1. What is the primary programming language in the project?
+1. What is the primary programming language in the project? <br>
 	Javascript
 
 1. What is the development environment? <br>
-	Node.js
+	Node.js, Git, and Gatsby CLI.
 
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
