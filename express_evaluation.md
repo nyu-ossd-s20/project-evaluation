@@ -148,7 +148,7 @@ This is a framework, so I was able to boot it up on my custom project.
 No.
 
 1. any other comments? <br>
--
+Nope.
 
 
 
@@ -156,11 +156,7 @@ No.
 ## Summary
 1. Do you think  this is a project to which it would be possible to contribute
 in the course of a few weeks before the end of this semester? <br>
-	<!--
-	Explain your position. Do NOT simply say 'yes or 'no'.
-	-->
+I think it is possible, because they lack, for instance Code of Conduct, so maybe proposing it would work. However, they became quite sucessful and known without it (Express is there since 2009), so I am not really sure. It's a huge project, it is used in 6 million repositories in GitHub, and it is probably the most popular NodeJS framework that exists, so realistically it would be really hard to make a contribution that will be accepted. Plus, in the past few months, the activity was extremely low, and I think pull request acceptance rate is like 2%.
 
 1. Would you be interested in contributing to this particular project? <br>
-	<!--
-	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
-	-->
+I surely would, although, as I expressed above, I'm not sure how realistic it is to do so. But this is the project that I use, and personally it would be amazing to contribute to such a project.
