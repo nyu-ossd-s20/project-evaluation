@@ -38,7 +38,7 @@ different licenses on specific files, but the project will have a main license.
 ## Code Base
 
 
-1. What is the primary programming language in the project? 
+1. What is the primary programming language in the project? <br>
 C
 
 1. What is the development environment? <br> 
