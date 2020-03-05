@@ -12,106 +12,107 @@ sm6957
 ## Project Data
 
 1. Project description: <br>
-	OpenRefine is a Java-based power tool that lets users load data, understand it, clean it up, reconcile it, and augment it with data coming from the web.
-<!--
-What is the purpose of this project? What does the code do? What type of users
-does it have?
--->
+	Oppia is an online learning tool that allows users to easily create and share interactive activities. These activities are designed to simulate one-on-one conversations with a tutor, making it possible for students to learn by doing while getting feedback. 
 
 1. Project website/homepage:
-	https://openrefine.org/
+	https://www.oppia.org/splash
 
 1. Project repository:
-	https://github.com/OpenRefine/OpenRefine
+	https://github.com/oppia/oppia
 
 
 ## License
 
 1. What is the project's license? <br>
-	Open refine is under the BSD liscence which means that users ae able to use it commercially and privately, modify it, and distribute it.
-<!--
-In most repositories there will be a file named LICENSE or something similar in
-the root level of the repository. This is the one to examine. There may be
-different licenses on specific files, but the project will have a main license.
--->
+	Oppia has an Apache v2 license. This license allows developers to use it for commercial use, modification, distribution, patent use, and private use. 
 
 ## Code Base
 
 
 1. What is the primary programming language in the project?
-	Java, javascript, Shell, CSS, and HTML 
+	Python, TypeScript, HTML, and JavaScript 
 
 1. What is the development environment? <br>
-	Unix/Linux or Windows 
-	<!--
-	For example, is it Gnu C++ on Linux?
-	Is it a Windows 10 application? Does one need to develop in a virtual machine?
-	-->
+	
+
+
+
+
+
+
 
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
-	The instructions are very easy to follow and even come with videos, FAQs, and a Wiki page. They also provided a developers guide which has a roadmap that provides a big picture of the project. 
+	The instructions are very easy to follow and even come with Youtube, FAQs, and a Wiki page. They also provide instructions for different types of contributers (e.g., designers, developers, voice artists)
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries? If so, are there clear instructions on how to install those? <br>
-	Developers will need to install Java JDK, and Apache Maven. 
+	Oppia relies on several third-party libraries but the majority of them are automatically downloaded when developers run "start.sh". Besides that, Homebrew and setuptools need to be installed.  
+	 
 
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample. <br>
-	Since I am fairly familiar with Java, the code seems fairly easy to understand. Although there were minimal to no comments, the variable names are discriptive enough to follow what the code is trying to accomplish.
+	The code is well documented and details what each function/class does in the program.
 
 1. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
-	OpenRefine is relatively large with 125 contributors and 127,000 lines of code. 
+	This seems like a relatively large project with 323 contributors. The number of lines of code are not published in OpenHub and aren't explicitly mention in any of their repositories. 
 
 1. Does the repository have tests? If so, are the code contributors expected to write tests for newly added code? <br>
-	No, there are no test repositories 
+	Yes, there are test repositories but the contributors are not required to write tests.  
 
 
 ## Code and Design Documentation
 1. Is there clear documentation in the code itself? <br>
-	There are very few comments in the code that relate to the functions/classes itself. Most of the comments are at the top describing the license that the code is under. 
+	There are many  comments in the code that relate to the functions/classes developed. The programs also have comments are at the top describing the license that the code is under. 
 
 1. Is there documentation about the design?  <br>
-	Under The Developers Guide and Architecture discusses the overall design of the code and the technology stack. 
+	
+	
+
+
+
+
+
+
 
 ## Activity Level
 
 
 1. How many commits have been made in the past week? <br>
-	There have been 34 commits this week.
+	There have been 14 commits this week.
 
 1. When was the most recent commit? <br>
-	The most recent commit was two days ago.
+	The most recent commit was 4 hours ago.
 
 1. How many issues are currently open? <br>
-	There are 423 issues open. 
+	There are 585 issues open. 
 
 1. How long do issues stay open? <br>
-   Issues are open for about 6 days. 
+   Issues are open for about 9 days. 
 	<!--
 	Take the five closed issues (they can be most recently closed or a sample distributed over time) and look at when each was first reported.
 	Compute the number of days that each was open and take the average.
 	-->
 
 1. Read the conversations from some open and some closed issues. Is there active discussion on the issues? <br>
-	There is no active discussions but while the project was open, people were consistently talking and help each other debug problems. 
+	There is no active discussions on opened or closed issues. 
 
 1. Are issues tagged as easy, hard, for beginners, etc.? <br>
 	Most, if not all, issues are tagged.
 
 1. How many issues were closed in the past six months? <br>
-	114 issues were closed in the last 6 months. 
+	249 issues were closed in the last 6 months. 
 
 1. Is there information about how many people are maintaining the project? <br>
-	There are 54 current contributors 
+	There are 11 current contributors 
 
 1. How many contributors has the project had in the past six months? <br>
-	There are 54 current contributors 
+	There are 11 current contributors 
 
 
 1. How many open pull requests are there? <br>
-	There are 14 pull requests
+	There are 69 pull requests
 
 1. Do pull requests remain un-answered for a long time? <br>
 	No, it takes less than a week for people to respond and commit the changes. 
