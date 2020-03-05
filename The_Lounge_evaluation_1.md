@@ -1,4 +1,4 @@
-# Project Name:  The Lounge
+ # Project Name:  The Lounge
 
 
 
@@ -38,7 +38,7 @@ Only Node.js is required
 
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
-Yes, they are available both within the website and the repository. It is very easy to install. Only the executable file needs to be downloaded and executed.
+Yes, they are available both within the website and the repository. It is straightforward to install. Only the executable file needs to be downloaded and executed.
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries? If so, are there clear instructions on how to install those? <br>
@@ -50,15 +50,15 @@ Yes, there are occasional comments as well.
 
 1. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
-I think it is a middle sized project. There are 18.4K lines of code according to OpenHub.
+I think it is a middle-sized project. There are 18.4K lines of code, according to OpenHub.
 
 1. Does the repository have tests? If so, are the code contributors expected to write tests for newly added code? <br>
-They have tests but it is not mentioned if contributers are expected to write tests for newly added code.
+They have tests, but it is not mentioned if contributors are expected to write tests for newly added code.
 
 
 ## Code and Design Documentation
 1. Is there clear documentation in the code itself? <br>
-There is no documentation explaining the code but there are occasional comments in the code. They also record the changes in each pull request in detail.
+There is no documentation explaining the code, but there are occasional comments in the code. They also record the changes in each pull request in detail.
 
 1. Is there documentation about the design?  <br>
 No
@@ -71,7 +71,7 @@ No
 
 
 1. When was the most recent commit? <br>
-27 February
+February 27, 2020
 
 1. How many issues are currently open? <br>
 138
@@ -80,7 +80,7 @@ No
 15 days
 
 1. Read the conversations from some open and some closed issues. Is there active discussion on the issues? <br>
-Yes there are active discussions.
+Yes, there are active discussions.
 
 1. Are issues tagged as easy, hard, for beginners, etc.? <br>
 No, but they do use tagging
@@ -101,7 +101,7 @@ Yes, 21 people. Mentioned [here](https://thelounge.chat/community).
 No, 10 days on average.
 
 1. Read the conversations from some open and some closed pull requests.  Is there active discussion on the pull requests? <br>
-They don't really discuss if the pull requests work and adress the issues mentioned in the linked issue.
+They don't really discuss if the pull requests work and address the issues mentioned in the linked issue.
 
 1. How many pull requests were opened within the past six months? <br>
 324
@@ -113,7 +113,7 @@ March 4, 2020
 
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
 Look through it and see if it is clear and thorough. <br>
-Yes, there is a CONTRIBUTING docuement [here](https://github.com/thelounge/thelounge/blob/master/.github/CONTRIBUTING.md). It is easy to read and everything is explained step by step, clearly.
+Yes, there is a CONTRIBUTING document [here](https://github.com/thelounge/thelounge/blob/master/.github/CONTRIBUTING.md). It is easy to read, and everything is explained step by step, clearly.
 
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it? <br>
@@ -121,7 +121,7 @@ No, there is no CODE OF CONDUCT document.
 
 1. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive? Read the issue conversations. <br>
-Yes, they do. Responses are constructive depending on the reported issue.
+Yes, they do. Responses are constructive, depending on the reported issue.
 
 1. Are people friendly in the issues, discussion forum, and chat? <br>
 They are usually friendly. It seems like they don't like people create duplicate issues.
@@ -133,10 +133,9 @@ No
 
 Install the development environment for the project on your system.
 Describe the process that you needed to follow:
-I installed Node.js and I downloaded the executable file and ran it.
 
 1. how involved was the process? <br>
-Super easy to install.
+Super easy to install. I installed Node.js and I downloaded the executable file and ran it.
 
 1. how long it take you? <br>
 5 minutes
@@ -158,11 +157,7 @@ It is a straightforward process.
 ## Summary
 1. Do you think  this is a project to which it would be possible to contribute
 in the course of a few weeks before the end of this semester? <br>
-	<!--
-	Explain your position. Do NOT simply say 'yes or 'no'.
-	-->
+Yes, the community is very active right now, and the waiting times are very little. They immediately give feedback on the contributions and issues.
 
 1. Would you be interested in contributing to this particular project? <br>
-	<!--
-	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
-	-->
+Yes, I think I might contribute to this project because I liked their product, and I am actively using it. There are some features that I want to add, as well. 
