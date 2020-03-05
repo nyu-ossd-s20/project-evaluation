@@ -32,15 +32,8 @@ sm6957
 1. What is the primary programming language in the project?
 	Python, TypeScript, HTML, and JavaScript 
 
-1. What is the development environment? <br>
+1. What is the development environment? <br>#TODO
 	
-
-
-
-
-
-
-
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
 	The instructions are very easy to follow and even come with Youtube, FAQs, and a Wiki page. They also provide instructions for different types of contributers (e.g., designers, developers, voice artists)
@@ -66,16 +59,8 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 1. Is there clear documentation in the code itself? <br>
 	There are many  comments in the code that relate to the functions/classes developed. The programs also have comments are at the top describing the license that the code is under. 
 
-1. Is there documentation about the design?  <br>
+1. Is there documentation about the design?  <br>#TODO
 	
-	
-
-
-
-
-
-
-
 ## Activity Level
 
 
@@ -114,8 +99,9 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 1. How many open pull requests are there? <br>
 	There are 69 pull requests
 
-1. Do pull requests remain un-answered for a long time? <br>
+1. Do pull requests remain un-answered for a long time? <br> #TODO
 	No, it takes less than a week for people to respond and commit the changes. 
+	
 	<!--
 	Look at the closed pull requests to see how long they stayed open.
 	Take the five closed pull requests  (they can be most recently closed or a sample distributed over time) and look at when each was first created.
