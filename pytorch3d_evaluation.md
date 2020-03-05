@@ -11,7 +11,7 @@ Nishant (@niniack)
 
 1. Project description: <br>
 
-  A neural network library providing reusable components for 3D computer vision, with a focus on providing data structures and efficient operations on triangle meshes.
+    A neural network library providing reusable components for 3D computer vision, with a focus on providing data structures and efficient operations on triangle meshes.
 
 1. Project website/homepage: https://pytorch3d.org/
 
@@ -22,7 +22,7 @@ Nishant (@niniack)
 ## License
 
 1. What is the project's license? <br>
-  BSD-3-Clause License.
+    BSD-3-Clause License.
 
 
 ## Code Base
@@ -147,7 +147,7 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
 Look through it and see if it is clear and thorough. <br>
 
-    Yes, there is. It is easy to access and understand and lays out expectations by the maintainers
+    Yes, there is. It is easy to access and understand and lays out expectations by the maintainers.
 
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it? <br>
@@ -173,29 +173,39 @@ Are responses generally constructive? Read the issue conversations. <br>
 Install the development environment for the project on your system.
 Describe the process that you needed to follow:
 
-1. how involved was the process? <br>
+1. How involved was the process? <br>
 
-1. how long it take you? <br>
+    Not very involved, I simply had to install the pre-requisite packages and then install the pytorch3d package using conda.
 
-1. did you need to install additional packages or libraries? <br>
+    This was all given that I had configured Conda before, which can be troublesome.
 
-1. were you able to build the code following the instructions? <br>
+1. How long it take you? <br>
 
-1. did you need to look for additional help in installing the environment? <br>
+    A few minutes
 
-1. any other comments? <br>
+1. Did you need to install additional packages or libraries? <br>
 
+    Yes, pytorch pytorch torchvision cudatoolkit=10.0 fvcore
 
+1. Were you able to build the code following the instructions? <br>
+
+    Yes, quite easily
+
+1. Did you need to look for additional help in installing the environment? <br>
+
+    No
+
+1. Any other comments? <br>
+
+    N/A
 
 
 ## Summary
 1. Do you think  this is a project to which it would be possible to contribute
 in the course of a few weeks before the end of this semester? <br>
-	<!--
-	Explain your position. Do NOT simply say 'yes or 'no'.
-	-->
+
+    Yes, it would be possible given that the PyTorch3D library itself is not huge and very involved. It is a library that helps one use 3D objects in the context of TensorFlow, so it is a lot of 3D transformations and manipulations and not as much of machine learning. Hence, someone who may have had experience working with 3D objects in programming may not have too difficult a time.
 
 1. Would you be interested in contributing to this particular project? <br>
-	<!--
-	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
-	-->
+
+	No. After evaluation, something off-putting is that since this project is maintained under the facebookresearch group, contributors must sign the Contributor License Agreement. Furthermore, given it is a very new project, while documentation may be needed, it feels as if it hasn't gained enough momentum for there to be a lot of options in contributions.
