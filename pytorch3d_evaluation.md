@@ -30,53 +30,53 @@ Nishant (@niniack)
 
 1. What is the primary programming language in the project?
 
-  The project is almost exclusively written in Python (75%), but has a sizable portion written in CUDA and C++ (9.5% and 9.1%, respectively)
+    The project is almost exclusively written in Python (75%), but has a sizable portion written in CUDA and C++ (9.5% and 9.1%, respectively)
 
 1. What is the development environment? <br>
 
-  From their installation page:
-  - Linux or macOS or Windows
-  - Python ≥ 3.6
-  - PyTorch 1.4
-  - torchvision that matches the PyTorch installation. You can install them together at pytorch.org to make sure of this.
-  - gcc & g++ ≥ 4.9
-  - CUDA 9.2 or 10.0 or 10.1
-  - [fvcore](https://github.com/facebookresearch/fvcore)
+    From their installation page:
+    - Linux or macOS or Windows
+    - Python ≥ 3.6
+    - PyTorch 1.4
+    - torchvision that matches the PyTorch installation. You can install them together at pytorch.org to make sure of this.
+    - gcc & g++ ≥ 4.9
+    - CUDA 9.2 or 10.0 or 10.1
+    - [fvcore](https://github.com/facebookresearch/fvcore)
 
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
 
-  Yes, the instructions are stored in a INSTALL.md file, which is also linked in the README.md.
+    Yes, the instructions are stored in a INSTALL.md file, which is also linked in the README.md.
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries? If so, are there clear instructions on how to install those? <br>
 
-  Yes, the project depends on PyTorch, torchvision (NN libraries) CUDA (parallel computing), and fvcore (core library by facebookresearch)
+    Yes, the project depends on PyTorch, torchvision (NN libraries) CUDA (parallel computing), and fvcore (core library by facebookresearch)
 
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample. <br>
 
-  Not necessarily easy to understand, but I feel like it may be accessible to someone who has a bit of experience with manipulating 3D meshes in code.
+    Not necessarily easy to understand, but I feel like it may be accessible to someone who has a bit of experience with manipulating 3D meshes in code.
 
 
 1. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 
-  97218 using git ls-files | xargs wc -l
+    97218 using git ls-files | xargs wc -l
 
 1. Does the repository have tests? If so, are the code contributors expected to write tests for newly added code? <br>
 
-  Yes, there are tests. Contributors are expected to add tests and ensure the code passes the tests before submitting their pull request.
+    Yes, there are tests. Contributors are expected to add tests and ensure the code passes the tests before submitting their pull request.
 
 
 ## Code and Design Documentation
 1. Is there clear documentation in the code itself? <br>
 
-  Yes, each method is described with comments in detail and variables/methods are well named
+    Yes, each method is described with comments in detail and variables/methods are well named
 
 1. Is there documentation about the design?  <br>
 
-  No, the documentation doesn't have information about the design of the project.
+    No, the documentation doesn't have information about the design of the project.
 
 
 ## Activity Level
@@ -84,59 +84,55 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 
 1. How many commits have been made in the past week? <br>
 
-  3 commits in the past week.
+    3 commits in the past week.
 
 1. When was the most recent commit? <br>
 
-  March 4th
+    March 4th
 
 1. How many issues are currently open? <br>
 
-  25 issues currently open
+    25 issues currently open
 
 1. How long do issues stay open? <br>
-	<!--
-	Take the five closed issues (they can be most recently closed or a sample distributed over time) and look at when each was first reported.
-	Compute the number of days that each was open and take the average.
-	-->
 
-  Random sample (days remained open): 0, 1, 0, 0, 3
+    Random sample (days remained open): 0, 1, 0, 0, 3
 
-  An average of less than a day
+    An average of less than a day
 
 1. Read the conversations from some open and some closed issues. Is there active discussion on the issues? <br>
 
-  Yes, especially on the issues labelled "bug"
+    Yes, especially on the issues labelled "bug"
 
 1. Are issues tagged as easy, hard, for beginners, etc.? <br>
 
-  No, but there is a "good first issue" label that has been used once (in the total of 100 issues since the project was published)
+    No, but there is a "good first issue" label that has been used once (in the total of 100 issues since the project was published)
 
 1. How many issues were closed in the past six months? <br>
 
-  75 issues
+    75 issues
 
 1. Is there information about how many people are maintaining the project? <br>
 
-  The contributors page shows about 3 main contributors.
+    The contributors page shows about 3 main contributors.
 
 1. How many contributors has the project had in the past six months? <br>
 
-  15 contributors
+    15 contributors
 
 1. How many open pull requests are there? <br>
 
-  4 open and 27 closed
+    4 open and 27 closed
 
 1. Do pull requests remain un-answered for a long time? <br>
 
-  Random sample (days remained un-answered): 1, 1, 0, 0, 1
+    Random sample (days remained un-answered): 1, 1, 0, 0, 1
 
-  An average of less than a day
+    An average of less than a day
 
 1. Read the conversations from some open and some closed pull requests.  Is there active discussion on the pull requests? <br>
 
-  Yes, the main contributors tend to be active in responding to the non-core contributors.
+    Yes, the main contributors tend to be active in responding to the non-core contributors.
 
 1. How many pull requests were opened within the past six months? <br>
 
@@ -144,24 +140,32 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 
 1. When was the last  pull request  merged? <br>
 
-  9 days ago
+    9 days ago
 
 ## Welcomeness and Community
 
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
 Look through it and see if it is clear and thorough. <br>
 
-  
+    Yes, there is. It is easy to access and understand and lays out expectations by the maintainers
 
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it? <br>
 
+  No, there is not.
+
 1. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive? Read the issue conversations. <br>
 
+    Yes, they mention they will get back to the issue with more detail and follow up!
+
 1. Are people friendly in the issues, discussion forum, and chat? <br>
 
+    Yes.
+
 1. Do maintainers thank people for their contributions? <br>
+
+    Yes, most of the responses by the maintainers begin with thanks
 
 
 ## Development Environment Installation
