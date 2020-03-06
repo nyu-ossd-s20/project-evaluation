@@ -10,10 +10,6 @@ Sylvia | sylviaji
 ## Project Data
 
 1. Project description: <br>
-<!--
-What is the purpose of this project? What does the code do? What type of users
-does it have?
--->
 	Scrapy is a fast high-level scraping and web crawling framework for Python. It is used by people and companies that want to scrape data from the web.
 
 1. Project website/homepage: [Scrapy | A Fast and Powerful Scraping and Web Crawling Framework](https://scrapy.org/)
