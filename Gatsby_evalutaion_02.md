@@ -86,7 +86,6 @@ Sijia (sm7515)
 ## Activity Level
 
 1. How many commits have been made in the past week? <br>
-
    88.
 
 1. When was the most recent commit? <br>
