@@ -10,12 +10,8 @@ Noah Brumfield
 "Rhythm is just a *click* away!"
 Mouse and keyboard based rhythm game.
 
-1. Project website/homepage:
-
-https://osu.ppy.sh/home
-1. Project repository:
-
-https://github.com/ppy/osu
+1. Project website/homepage: 	https://osu.ppy.sh/home
+1. Project repository:	https://github.com/ppy/osu
 
 
 ## License
