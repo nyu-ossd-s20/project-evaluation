@@ -46,10 +46,9 @@ database,  graphics, web development, or other libraries? If so, are there clear
 
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample. <br>
-	The code looks easy to understand.
+	The code seems easy to understand.
 	
 	
-
 1. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 	The project has 28,284 lines of code.
@@ -103,25 +102,34 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 	Pull requests stay open for an average of 3.5 days based on the fivt most recently closed pull requests.
 
 1. Read the conversations from some open and some closed pull requests.  Is there active discussion on the pull requests? <br>
+	There is usually active discussion on the pull requests, but sometime the only reply is the Codedev report.
 
 1. How many pull requests were opened within the past six months? <br>
+	239.
 
 1. When was the last  pull request  merged? <br>
+	2 days ago.
 
 ## Welcomeness and Community
 
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
 Look through it and see if it is clear and thorough. <br>
+	Yeah, there is a `CONTRIBUTING.md` which contains the link to the guidelines of contributing. The guidelines are clear and easy to understand.
 
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it? <br>
+	Yeah, there is a `CODE_OF_CONDUCT.md`. It has consequences for acts that
+violate it.
 
 1. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive? Read the issue conversations. <br>
+	Yeah, the maintainers respond helpfully to questions in issues. However, questions that the maintainers believe should go to Stack Overflow will not be answered.
 
 1. Are people friendly in the issues, discussion forum, and chat? <br>
+	Yeah, people seem friendly.
 
 1. Do maintainers thank people for their contributions? <br>
+	Sometimes.
 
 
 ## Development Environment Installation
