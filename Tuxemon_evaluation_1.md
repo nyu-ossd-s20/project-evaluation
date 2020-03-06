@@ -195,10 +195,8 @@ Summary
     contribute in the course of a few weeks before the end of this
     semester?
 
-    Yes. Adding a code of conduct or helping draw one up would be good.  There are also a lot of issues that are tagged as "easy",
-	that I'm sure I can try and help with since most of this project is in Python (One of my better languages).
+    Yes. Adding a code of conduct or helping draw one up would be good.  They also use have problems tagged as "easy" that I'm sure I can help with.
 
 2.  Would you be interested in contributing to this particular project?
 
-    Yes.  I loved playing Pokemon growing up, so contributing to a similar game that's open source would be really cool.  
-	Additionally, it uses Python, which is one of my more fluent languages.
+    Yes.  It uses Python which is my most fluent language and also is very similar to a game I used to play when I was younger.
