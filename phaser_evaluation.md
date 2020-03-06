@@ -9,13 +9,9 @@
 ## Project Data
 
 1. Project description: <br>
-  <!--
-  What is the purpose of this project? What does the code do? What type of users
-  does it have?
-  -->
-  Phaser is a game engine for making 2D, HTML5 games. Essentially, the user group is composed of
-  game developers who are specifically looking to make something that is lightweight, for the browser
-  or for a mobile device.
+    Phaser is a game engine for making 2D, HTML5 games. Essentially, the user group is composed of
+    game developers who are specifically looking to make something that is lightweight, for the browser
+    or for a mobile device.
 
 1. Project website/homepage:
     phaser.io
@@ -26,12 +22,7 @@
 ## License
 
 1. What is the project's license? <br>
-<!--
-In most repositories there will be a file named LICENSE or something similar in
-the root level of the repository. This is the one to examine. There may be
-different licenses on specific files, but the project will have a main license.
--->
-  The project is licensed under the MIT license.
+    The project is licensed under the MIT license.
 
 
 
@@ -41,10 +32,6 @@ different licenses on specific files, but the project will have a main license.
 1. What is the primary programming language in the project?
     The primary programming language is TypeScript which is a subset of JavaScript.
 1. What is the development environment? <br>
-	<!--
-	For example, is it Gnu C++ on Linux?
-	Is it a Windows 10 application? Does one need to develop in a virtual machine?
-	-->
     The project uses Webpack.
 
 1. Are there instructions for how to download, build, and install? How easy is it
@@ -85,10 +72,6 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 1. How many issues are currently open? <br>
     There are 175 issues open.
 1. How long do issues stay open? <br>
-	<!--
-	Take the five closed issues (they can be most recently closed or a sample distributed over time) and look at when each was first reported.
-	Compute the number of days that each was open and take the average.
-	-->
     About a week on average I would say.
 
 1. Read the conversations from some open and some closed issues. Is there active discussion on the issues? <br>
@@ -104,12 +87,7 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 1. How many open pull requests are there? <br>
     23.
 1. Do pull requests remain un-answered for a long time? <br>
-	<!--
-	Look at the closed pull requests to see how long they stayed open.
-	Take the five closed pull requests  (they can be most recently closed or a sample distributed over time) and look at when each was first created.
-	Compute the number of days that each was open and take the average.
-	-->
-  Pull requests remain open for about 7 days.
+    Pull requests remain open for about 7 days.
 
 1. Read the conversations from some open and some closed pull requests.  Is there active discussion on the pull requests? <br>
     There is active discussion on a good amount of pull requests, but not as much discussion as on the issues.
@@ -121,7 +99,7 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
 Look through it and see if it is clear and thorough. <br>
-  There is a contributing document, and it is very clear, easy to read and understand.
+    There is a contributing document, and it is very clear, easy to read and understand.
 
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it? <br>
@@ -162,16 +140,10 @@ Describe the process that you needed to follow:
 ## Summary
 1. Do you think  this is a project to which it would be possible to contribute
 in the course of a few weeks before the end of this semester? <br>
-	<!--
-	Explain your position. Do NOT simply say 'yes or 'no'.
-	-->
   I think it is possible to contribute to the project, as I have used other game engines before
   such as Unity and Unreal engine. So I may be able to take my experiences from there and apply
   it to my contributions for this project.
 
 1. Would you be interested in contributing to this particular project? <br>
-	<!--
-	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
-	-->
   I would probably be interested in contributing to this particular project as I myself am slightly interested
   in game design, and Phaser is a different shift from what I normally work with which is Unity.
