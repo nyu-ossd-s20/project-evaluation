@@ -11,8 +11,10 @@ Noah Brumfield
 Mouse and keyboard based rhythm game.
 
 1. Project website/homepage:
+
 https://osu.ppy.sh/home
 1. Project repository:
+
 https://github.com/ppy/osu
 
 
