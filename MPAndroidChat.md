@@ -1,10 +1,8 @@
-# Project Name:  <!-- replace with the project name -->   
-	MPAndroidChat
-
-
-**Evaluating Person or Team**:
+# Project Name: MPAndroidChat  <!-- replace with the project name -->   
+	
+**Evaluating Person or Team**: Alifa Faruk
 <!-- list your first name and github user-name-->
-	Alifa Faruk
+
 ---
 
 ## Project Data
@@ -14,9 +12,11 @@
 What is the purpose of this project? What does the code do? What type of users
 does it have?
 -->
-	MPAndroidChat is a powerful and easy to use chart library for Andriod. It has an OpenSource version for IOS as well. THis particular OSSP is for android users. 
+  MPAndroidChat is a powerful and easy to use chart library for Andriod. It has an OpenSource version for IOS as well. THis particular OSSP is for android users. 
+
 1. Project website/homepage:
 	https://weeklycoding.com/mpandroidchart-documentation/
+
 1. Project repository:
 	https://github.com/PhilJay/MPAndroidChart
 
@@ -36,6 +36,7 @@ different licenses on specific files, but the project will have a main license.
 
 
 1. What is the primary programming language in the project?
+
 	The primary programming language is JAVA.
 
 1. What is the development environment? <br>
@@ -47,7 +48,7 @@ different licenses on specific files, but the project will have a main license.
 
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
-	Thee are vauge instructions on how to build. I dont see any instructions on how to download and build.
+	There are vauge instructions on how to build. I dont see any instructions on how to download and build.
  
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries? If so, are there clear instructions on how to install those? <br>
