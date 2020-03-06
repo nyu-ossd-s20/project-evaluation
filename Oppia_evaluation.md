@@ -32,8 +32,8 @@ sm6957
 1. What is the primary programming language in the project?
 	Python, TypeScript, HTML, and JavaScript 
 
-1. What is the development environment? <br>#TODO
-	
+1. What is the development environment? <br>
+	IDLE 
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
 	The instructions are very easy to follow and even come with Youtube, FAQs, and a Wiki page. They also provide instructions for different types of contributers (e.g., designers, developers, voice artists)
@@ -59,7 +59,8 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 1. Is there clear documentation in the code itself? <br>
 	There are many  comments in the code that relate to the functions/classes developed. The programs also have comments are at the top describing the license that the code is under. 
 
-1. Is there documentation about the design?  <br>#TODO
+1. Is there documentation about the design?  <br>
+There is a diagram and explination addressing what core functionalities of Oppia are. It is followed by a detailed explination of what the frontend, backend, and extensions do to support this project. 
 	
 ## Activity Level
 
@@ -99,29 +100,23 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 1. How many open pull requests are there? <br>
 	There are 69 pull requests
 
-1. Do pull requests remain un-answered for a long time? <br> #TODO
+1. Do pull requests remain un-answered for a long time? <br> 
 	No, it takes less than a week for people to respond and commit the changes. 
-	
-	<!--
-	Look at the closed pull requests to see how long they stayed open.
-	Take the five closed pull requests  (they can be most recently closed or a sample distributed over time) and look at when each was first created.
-	Compute the number of days that each was open and take the average.
-	-->
 
 1. Read the conversations from some open and some closed pull requests.  Is there active discussion on the pull requests? <br>
-	There seem to be very active conversations and people also respond with encouraging comments. 
+	There isn't much conversation on the pull requests either. This makes it a but unclear why some pull requests were rejected.  
 
 1. How many pull requests were opened within the past six months? <br>
-	All of them 
+	All of them (69 pull requests)
 
 1. When was the last  pull request  merged? <br>
-	Two days ago 
+	21 hours ago 
 
 ## Welcomeness and Community
 
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
 Look through it and see if it is clear and thorough. <br>
-	They have a Wiki page that is broken down into "How to Start", "Feature Areas", "Recipes and Worked Examples", "Expressions", "References", and "External Sites". Based on what I've seen in each category, they are fairly easy to read. 
+	They have a Wiki page that is broken based off of the role of the contributor (e.g., "Coder", "Instructional Designers", "UX Researchers", "Voice Artists", and "Designers and Artists".)Based on what I've seen in each category, they are fairly easy to read. 
 
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it? <br>
@@ -129,13 +124,13 @@ violate it? <br>
 
 1. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive? Read the issue conversations. <br>
-	Yes, they are constructive and many come with images/pictures attached to provide clarity.
+	Yes, they are constructive but the amount of comments in general is very sparse.
 
 1. Are people friendly in the issues, discussion forum, and chat? <br>
-	Absolutly, people seem to be a lot more receptive to newbies and provide positive, encouraging feedback.
+	People seem to be a lot more receptive to newbies and provide positive feedback than I expected.
 
 1. Do maintainers thank people for their contributions? <br>
-	Yes! They also provide encouraging feedback and suggestions for the future.
+	No
 
 ## Development Environment Installation
 
@@ -147,8 +142,7 @@ Describe the process that you needed to follow:
 1. how long it take you? <br>
 	~30-45 minutes 
 1. did you need to install additional packages or libraries? <br>
-	Yes, I needed to download JDK 8 and Apache Maven
-1. were you able to build the code following the instructions? <br>
+	Yes, I needed to update my GitHub account,setuptools, and pyyaml <br>
 	Yes!
 1. did you need to look for additional help in installing the environment? <br>
 	No, the FAQs/ other peoples questions generally helped answer mine.
@@ -160,13 +154,8 @@ Describe the process that you needed to follow:
 ## Summary
 1. Do you think  this is a project to which it would be possible to contribute
 in the course of a few weeks before the end of this semester? <br>
-	Yes because they offer a lot of support, encouragement, and they have many issues labeled "good-first-issue".
-	<!--
-	Explain your position. Do NOT simply say 'yes or 'no'.
-	-->
+	Yes because because they encourage beginners, the project is interesting, and there are different ways to contribute to this software (e.g., developer, UX designer, and voice artists)
 
 1. Would you be interested in contributing to this particular project? <br>
-	Not really because I would want to contribute to an open source project that interests me or software that I use frequently 
-	<!--
-	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
-	-->
+	Absolutly! I am interested in working on a project that focuses on a social good and based on what I've read about Oppia, it would be an ideal project to work with. 
+	
