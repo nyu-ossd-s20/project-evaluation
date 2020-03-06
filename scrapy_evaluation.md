@@ -29,11 +29,10 @@ Sylvia | sylviaji
 
 
 1. What is the primary programming language in the project? <br>
-	Python
+	Python.
 
 
 1. What is the development environment? <br>
-
 	Linux, Windows, macOS, BSD. It is recommended to install Scrapy inside a virtual environment on all platforms.
 
 1. Are there instructions for how to download, build, and install? How easy is it
