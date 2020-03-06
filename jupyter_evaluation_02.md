@@ -12,10 +12,6 @@
 1. Project description: <br>
 Jupyter Notebooks is an interactive web environment that lets you run blocks of code. The most popular language
 used with Jupyter is Python, although others are available. 
-<!--
-What is the purpose of this project? What does the code do? What type of users
-does it have?
--->
 
 1. Project website/homepage: [Jupyter](jupyter.org)
 
@@ -41,11 +37,6 @@ different licenses on specific files, but the project will have a main license.
 1. What is the primary programming language in the project?
 A mix of JavaScript, Jupyter Notebook, and Python.
 1. What is the development environment? <br>
-
-	<!--
-	For example, is it Gnu C++ on Linux?
-	Is it a Windows 10 application? Does one need to develop in a virtual machine?
-	-->
 Developing requires Node and Python and can be done with OSs that support those.
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
@@ -97,11 +88,6 @@ Not many, most contributors seem to have contributed a year or two ago.
 1. How many open pull requests are there? <br>
 89
 1. Do pull requests remain un-answered for a long time? <br>
-	<!--
-	Look at the closed pull requests to see how long they stayed open.
-	Take the five closed pull requests  (they can be most recently closed or a sample distributed over time) and look at when each was first created.
-	Compute the number of days that each was open and take the average.
-	-->
 The pull requests that are closed are from at least months ago. The ones that are open have lots of discussion but haven't been merged yet.
 1. Read the conversations from some open and some closed pull requests.  Is there active discussion on the pull requests? <br>
 Yes, some have very long dicussions.
@@ -148,12 +134,6 @@ No
 ## Summary
 1. Do you think  this is a project to which it would be possible to contribute
 in the course of a few weeks before the end of this semester? <br>
-	<!--
-	Explain your position. Do NOT simply say 'yes or 'no'.
-	-->
 Yes, they do seem to be helpful and there are good discussion. Although they have been slow to merge in contributions lately.
 1. Would you be interested in contributing to this particular project? <br>
-	<!--
-	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
-	-->
 Yes, the development is primarily in two languages that I am familiar with, JavaScript and Python, so I think I would be able to make contributions.
