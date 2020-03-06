@@ -126,17 +126,17 @@ Are responses generally constructive? Read the issue conversations. <br>
 Install the development environment for the project on your system.
 Describe the process that you needed to follow:
 
-1. how involved was the process? <br>
+1. How involved was the process? <br>
 
-1. how long it take you? <br>
+1. How long it take you? <br>
 
-1. did you need to install additional packages or libraries? <br>
+1. Did you need to install additional packages or libraries? <br>
 
-1. were you able to build the code following the instructions? <br>
+1. Were you able to build the code following the instructions? <br>
 
-1. did you need to look for additional help in installing the environment? <br>
+1. Did you need to look for additional help in installing the environment? <br>
 
-1. any other comments? <br>
+1. Any other comments? <br>
 
 
 
