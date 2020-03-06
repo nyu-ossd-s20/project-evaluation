@@ -10,7 +10,11 @@ Sylvia | sylviaji
 ## Project Data
 
 1. Project description: <br>
-	Scrapy is a fast high-level scraping and web crawling framework for Python.
+<!--
+What is the purpose of this project? What does the code do? What type of users
+does it have?
+-->
+	Scrapy is a fast high-level scraping and web crawling framework for Python. It is used by people and companies that want to scrape data from the web.
 
 1. Project website/homepage: [Scrapy | A Fast and Powerful Scraping and Web Crawling Framework](https://scrapy.org/)
 
@@ -46,7 +50,6 @@ database,  graphics, web development, or other libraries? If so, are there clear
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample. <br>
 	The code seems easy to understand.
-	
 	
 1. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
@@ -125,7 +128,7 @@ Are responses generally constructive? Read the issue conversations. <br>
 	Yeah, the maintainers respond helpfully to questions in issues. However, questions that the maintainers believe should go to Stack Overflow will not be answered.
 
 1. Are people friendly in the issues, discussion forum, and chat? <br>
-	Yeah, people seem friendly.
+	Yeah, people seem to be friendly.
 
 1. Do maintainers thank people for their contributions? <br>
 	Sometimes.
@@ -136,17 +139,23 @@ Are responses generally constructive? Read the issue conversations. <br>
 Install the development environment for the project on your system.
 Describe the process that you needed to follow:
 
-1. how involved was the process? <br>
+1. How involved was the process? <br>
+	I followed the installation guideline and installed Scrapy using `conda`.
 
-1. how long it take you? <br>
+1. How long it take you? <br>
+	Five minutes.
 
-1. did you need to install additional packages or libraries? <br>
+1. Did you need to install additional packages or libraries? <br>
+	No.
 
-1. were you able to build the code following the instructions? <br>
+1. Were you able to build the code following the instructions? <br>
+	Yes.
 
-1. did you need to look for additional help in installing the environment? <br>
+1. Did you need to look for additional help in installing the environment? <br>
+	No.
 
-1. any other comments? <br>
+1. Any other comments? <br>
+	N/A.
 
 
 
@@ -154,11 +163,7 @@ Describe the process that you needed to follow:
 ## Summary
 1. Do you think  this is a project to which it would be possible to contribute
 in the course of a few weeks before the end of this semester? <br>
-	<!--
-	Explain your position. Do NOT simply say 'yes or 'no'.
-	-->
+	Yes. The project is easy to install, and the majority of the code seems well-documented and easy to follow. The documentation of the project is also very detailed, which will make it easier to understand the project.
 
 1. Would you be interested in contributing to this particular project? <br>
-	<!--
-	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
-	-->
+	I am quite interested in web crawling, which is why I picked Scrapy as the project to evaluate. The project is written in Python, a language I am pretty comfortable with, which is a plus. One barrier will be that in order to contribute to the project, network related knowledge will be essential, however I don't have much understanding about the topic. But overall, I would be interested in contributing to the project.
