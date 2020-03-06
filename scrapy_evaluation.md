@@ -1,34 +1,27 @@
-# Project Name:  <!-- replace with the project name -->   
+# Project Name:  Scrapy  
 
 
 
 **Evaluating Person or Team**:
-<!-- list your first name and github user-name-->
+Sylvia | sylviaji
 
 ---
 
 ## Project Data
 
 1. Project description: <br>
-<!--
-What is the purpose of this project? What does the code do? What type of users
-does it have?
--->
+Scrapy is a fast high-level scraping and web crawling framework for Python.
 
-1. Project website/homepage:
+1. Project website/homepage: [Scrapy | A Fast and Powerful Scraping and Web Crawling Framework](https://scrapy.org/)
 
-1. Project repository:
+1. Project repository: [GitHub - scrapy/scrapy: Scrapy, a fast high-level web crawling & scraping framework for Python.](https://github.com/scrapy/scrapy)
 
 
 
 ## License
 
 1. What is the project's license? <br>
-<!--
-In most repositories there will be a file named LICENSE or something similar in
-the root level of the repository. This is the one to examine. There may be
-different licenses on specific files, but the project will have a main license.
--->
+  BSD-3-Clause
 
 
 
@@ -36,6 +29,8 @@ different licenses on specific files, but the project will have a main license.
 
 
 1. What is the primary programming language in the project?
+  Python
+
 
 1. What is the development environment? <br>
 	<!--
@@ -152,5 +147,3 @@ in the course of a few weeks before the end of this semester? <br>
 	<!--
 	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
 	-->
-
-
