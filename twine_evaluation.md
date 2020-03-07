@@ -143,22 +143,20 @@ Describe the process that you needed to follow:
   You need to make sure you have npm for building the app, as well as Wine and Makensis for OSX and Linux
 
 1. were you able to build the code following the instructions? <br>
+  Yep
 
 1. did you need to look for additional help in installing the environment? <br>
+  Not really, mainly just installing the external libraries and such were the biggest problem.
 
 1. any other comments? <br>
-
+  Nope
 
 
 
 ## Summary
 1. Do you think  this is a project to which it would be possible to contribute
 in the course of a few weeks before the end of this semester? <br>
-	<!--
-	Explain your position. Do NOT simply say 'yes or 'no'.
-	-->
+	While I am interested and really like the app itself, I am unsure whether or not it would be a good project to work on as a group. It is not super active, but that also might mean that there is a decent amount of stuff to work on. What contributions do get made do seem to have some good discussion though.
 
 1. Would you be interested in contributing to this particular project? <br>
-	<!--
-	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
-	-->
+	I would be interested in contributing mainly because it is written in mostly Javascript, HTML, and CSS, which I am familiar with, and that I enjoy using the program myself. Otherwise, it is still yet to be seen whether or not it is a good idea for a group to try and contribute, if it is active enough.
