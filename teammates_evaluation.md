@@ -10,10 +10,6 @@ Priya Mehta pmets
 ## Project Data
 
 1. Project description: <br>
-<!--
-What is the purpose of this project? What does the code do? What type of users
-does it have?
--->
 	TEAMMATES is an online tool for managing peer evaulations and other feedback for students. It is a cloud based service for teachers and students.
 
 1. Project website/homepage:
@@ -25,11 +21,6 @@ does it have?
 ## License
 
 1. What is the project's license? <br>
-<!--
-In most repositories there will be a file named LICENSE or something similar in
-the root level of the repository. This is the one to examine. There may be
-different licenses on specific files, but the project will have a main license.
--->
 	GNU General Public License
 
 
