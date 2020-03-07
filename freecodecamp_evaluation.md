@@ -32,7 +32,6 @@ BSD 3-Clause License
 Javascript
 
 1. What is the development environment? <br>
-
 MERN stack: Node.js for the backend, and React.js for the frontend
 
 1. Are there instructions for how to download, build, and install? How easy is it
@@ -150,8 +149,10 @@ in the course of a few weeks before the end of this semester? <br>
 	<!--
 	Explain your position. Do NOT simply say 'yes or 'no'.
 	-->
-
+	Yes, it shouldn't be too hard to do some contributions to the codebase if you are familiar with JavaScript. Also you can edit their coding challenges with just knowledge of Markdown
+	
 1. Would you be interested in contributing to this particular project? <br>
 	<!--
 	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
 	-->
+	Maybe, I am familiar with Express, React, and Mongo from previous classes, so the learning curve wouldn't be to hard.
