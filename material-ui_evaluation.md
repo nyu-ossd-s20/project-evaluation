@@ -11,10 +11,11 @@ Anastasia Riawan Soenjoto - anastasiasoenjoto
 ## Project Data
 
 1. Project description: <br>
-<!--
-What is the purpose of this project? What does the code do? What type of users
-does it have?
--->
+	<!--
+	What is the purpose of this project? What does the code do? What type of users
+	does it have?
+	-->
+	
 	This project is a React UI framework that helps to render React components to make it look nicer without the hassle of styling it. This project is used by any web developers that use React. Its useful because styling different elements like buttons, list, etc is made so much easier with it. For example with buttons if we were to style it without material ui we would need alot of style rules to make it look nice, but with material ui we can define a button and the type of button we want.
 
 
@@ -28,14 +29,12 @@ does it have?
 ## License
 
 1. What is the project's license? <br>
-<!--
-In most repositories there will be a file named LICENSE or something similar in
-the root level of the repository. This is the one to examine. There may be
-different licenses on specific files, but the project will have a main license.
--->
+	<!--
+	In most repositories there will be a file named LICENSE or something similar in
+	the root level of the repository. This is the one to examine. There may be
+	different licenses on specific files, but the project will have a main license.
+	-->
 	MIT License
-
-
 
 ## Code Base
 
