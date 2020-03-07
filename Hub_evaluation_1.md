@@ -47,8 +47,8 @@ different licenses on specific files, but the project will have a main license.
 
 1. What is the primary programming language in the project?
 
-The majority of the code is written in Go (49.3%) and Gherkin (39.6%)
-Then there are smalls chunks of shell, ruby and makeFile/batchFile (4%)
+	The majority of the code is written in Go (49.3%) and Gherkin (39.6%)
+	Then there are smalls chunks of shell, ruby and makeFile/batchFile (4%)
 
 1. What is the development environment? <br>
 	<!--
