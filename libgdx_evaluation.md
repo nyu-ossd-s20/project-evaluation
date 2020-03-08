@@ -9,15 +9,15 @@
 
 ## Project Data
 
-1. Project description: <br>
+1. Project description: libGDX is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.<br>
 <!--
 What is the purpose of this project? What does the code do? What type of users
 does it have?
 -->
 
-1. Project website/homepage:
+1. Project website/homepage: [https://libgdx.badlogicgames.com/](https://libgdx.badlogicgames.com/)
 
-1. Project repository:
+1. Project repository: [https://github.com/libgdx/libgdx](https://github.com/libgdx/libgdx)
 
 
 
