@@ -1,207 +1,163 @@
-# Project Name: LibreOffice
+ # Project Name:  The Lounge
 
 
 
 **Evaluating Person or Team**:
-
-Prince (@PrinceCarter)
+Barkin Simsek
 
 ---
 
 ## Project Data
 
 1. Project description: <br>
+The self-hosted web IRC client
 
+1. Project website/homepage: [website](https://thelounge.chat/)
 
-	Do more - easier, quicker, smarter. LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice). Its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.
+1. Project repository: [GitHub Repository](https://github.com/thelounge)
 
-1. Project website/homepage: 
-	
-	https://www.libreoffice.org/
-
-1. Project repository: 
-
-	https://cgit.freedesktop.org/libreoffice
 
 
 ## License
 
 1. What is the project's license? <br>
+MIT License
 
-	Mozilla Public License v2.0
+
 
 ## Code Base
 
 
-1. What is the primary programming language in the project?
+1. What is the primary programming language in the project? <br>
+JavaScript
 
-	C++
 
 1. What is the development environment? <br>
+Only Node.js is required
 
-	It varies depending on machine.
 
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
-
-	There is a developer guide. It is relatively easy to follow.
+Yes, they are available both within the website and the repository. It is straightforward to install. Only the executable file needs to be downloaded and executed.
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries? If so, are there clear instructions on how to install those? <br>
-
-	For Mac, XCode is required.
-	For Windows, Visual Studio is required.
-	For Linux, there are many other dependencies.
+It depends on having Node.js installed on the computer. They don't explain how to install Node.js but they have a link to the official Node.js documentation.
 
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample. <br>
-
-	It is relatively easy to understand.
+Yes, there are occasional comments as well.
 
 1. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
-
-	~10M line of code.
+I think it is a middle-sized project. There are 18.4K lines of code, according to OpenHub.
 
 1. Does the repository have tests? If so, are the code contributors expected to write tests for newly added code? <br>
+They have tests, but it is not mentioned if contributors are expected to write tests for newly added code.
 
-
-	Yes, and yes.
 
 ## Code and Design Documentation
 1. Is there clear documentation in the code itself? <br>
-
-	Yes.
+There is no documentation explaining the code, but there are occasional comments in the code. They also record the changes in each pull request in detail.
 
 1. Is there documentation about the design?  <br>
-
-	Yes.
-
-
+No
 
 ## Activity Level
-1. How many commits have been made in the past week? <br>
 
-	264.
+
+1. How many commits have been made in the past week? <br>
+32
+
 
 1. When was the most recent commit? <br>
-
-	~1 hour ago
+February 27, 2020
 
 1. How many issues are currently open? <br>
-
-	Unsure.
+138
 
 1. How long do issues stay open? <br>
+15 days
 
-	
-	Not too long, less than a day.
-	
 1. Read the conversations from some open and some closed issues. Is there active discussion on the issues? <br>
-
-	Yes there is.
+Yes, there are active discussions.
 
 1. Are issues tagged as easy, hard, for beginners, etc.? <br>
-
-	No difficulty rating, only issue "size".
+No, but they do use tagging
 
 1. How many issues were closed in the past six months? <br>
-
-	Unsure.
+52
 
 1. Is there information about how many people are maintaining the project? <br>
-
-	I cannot tell, but from what I see, alot.
+Yes, 21 people. Mentioned [here](https://thelounge.chat/community).
 
 1. How many contributors has the project had in the past six months? <br>
-
-	I cannot tell, but from what I see, alot.
+12
 
 1. How many open pull requests are there? <br>
-	
-	~400
+13
 
 1. Do pull requests remain un-answered for a long time? <br>
-
-	The average wait time for a pull request is ~5 hours.
+No, 10 days on average.
 
 1. Read the conversations from some open and some closed pull requests.  Is there active discussion on the pull requests? <br>
-
-	
-	Yes.
+They don't really discuss if the pull requests work and address the issues mentioned in the linked issue.
 
 1. How many pull requests were opened within the past six months? <br>
+324
 
-	>10,000
-
-1. When was the last pull request merged? <br>
-
-	~1 hour ago
+1. When was the last  pull request  merged? <br>
+March 4, 2020
 
 ## Welcomeness and Community
 
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
 Look through it and see if it is clear and thorough. <br>
-
-	From what I see, it is very clear and easy to understand.
+Yes, there is a CONTRIBUTING document [here](https://github.com/thelounge/thelounge/blob/master/.github/CONTRIBUTING.md). It is easy to read, and everything is explained step by step, clearly.
 
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it? <br>
+No, there is no CODE OF CONDUCT document.
 
-
-	From what I see, no.
-
-1. Do the maintainers respond helpfully to questions in issues? Are responses generally constructive? Read the issue conversations. <br>
-
-	From what I see, responses are generally helpful and constructive.
+1. Do the maintainers respond helpfully to questions in issues?
+Are responses generally constructive? Read the issue conversations. <br>
+Yes, they do. Responses are constructive, depending on the reported issue.
 
 1. Are people friendly in the issues, discussion forum, and chat? <br>
-
-	From what I see, yes.
+They are usually friendly. It seems like they don't like people create duplicate issues.
 
 1. Do maintainers thank people for their contributions? <br>
-
-	From what I see, not really
-
+No
 
 ## Development Environment Installation
 
 Install the development environment for the project on your system.
 Describe the process that you needed to follow:
 
-1. How involved was the process? <br>
-
-	Not very involved. It is like downloading any other development environment.
+1. how involved was the process? <br>
+Super easy to install. I installed Node.js and I downloaded the executable file and ran it.
 
 1. how long it take you? <br>
+5 minutes
 
-	~5 mins
+1. did you need to install additional packages or libraries? <br>
+I needed to install Node.js version 10
 
-1. Did you need to install additional packages or libraries? <br>
+1. were you able to build the code following the instructions? <br>
+Yes
 
-	Nah.
+1. did you need to look for additional help in installing the environment? <br>
+I needed to see how to install Node.js version 10 on Ubuntu 18.04
 
-1. Were you able to build the code following the instructions? <br>
-	
-	Yes.
+1. any other comments? <br>
+It is a straightforward process.
 
-
-1. Did you need to look for additional help in installing the environment? <br>
-
-	Nah.
-
-1. Any other comments? <br>
-
-	Nah.
 
 
 ## Summary
 1. Do you think  this is a project to which it would be possible to contribute
 in the course of a few weeks before the end of this semester? <br>
-
-
-	This is very large project and seems very intimidating in terms of contribution. I think although the code languages is familiar to me, it would take me a while to figure out what I would want to contribute and how to even contribute. I would have to learn how most of the software is pieced together and then finally start thinking of feature addition and then FINALLY implement that feature, which I would think would take much longer than the end of the semester.
+Yes, the community is very active right now, and the waiting times are very little. They immediately give feedback on the contributions and issues.
 
 1. Would you be interested in contributing to this particular project? <br>
-
-	Not really interested in the project. Although it sounds like a cool and useful project, I want to work on a project that I actually use (or would use).
+Yes, I think I might contribute to this project because I liked their product, and I am actively using it. There are some features that I want to add, as well. 
