@@ -6,13 +6,8 @@
 
 ## Project Data
 
-1. Project description: <br>
-MPAndroidChat is a powerful and easy to use chart library for Andriod. It has an OpenSource version for IOS as well. THis particular OSSP is for android users. 
-<!--
-What is the purpose of this project? What does the code do? What type of users
-does it have?
--->
-
+1. Project description: <br> 
+	MPAndroidChat is a powerful and easy to use chart library for Andriod. It has an OpenSource version for IOS as well. 	THis particular OSSP is for android users.
 1. Project website/homepage: https://weeklycoding.com/mpandroidchart-documentation/
 
 1. Project repository: https://github.com/PhilJay/MPAndroidChart
@@ -21,13 +16,13 @@ does it have?
 ## License
 
 1. What is the project's license? <br>
+Apache License, Version 2.0 
 <!--
 In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
 different licenses on specific files, but the project will have a main license.
 -->
 
-Apache License, Version 2.0 
 
 ## Code Base
 
