@@ -12,8 +12,7 @@
 What is the purpose of this project? What does the code do? What type of users
 does it have?
 -->
-
- MPAndroidChat is a powerful and easy to use chart library for Andriod. It has an OpenSource version for IOS as well. THis particular OSSP is for android users. 
+MPAndroidChat is a powerful and easy to use chart library for Andriod. It has an OpenSource version for IOS as well. THis particular OSSP is for android users. 
 
 1. Project website/homepage:
 https://weeklycoding.com/mpandroidchart-documentation/
