@@ -182,13 +182,15 @@ Describe the process that you needed to follow:
 ## Summary
 1. Do you think  this is a project to which it would be possible to contribute
 in the course of a few weeks before the end of this semester? <br>
+	So there are many issues that can be found on JIRA that show what needs to work on. As Professor Klukowska said in class, it may be hard to find an issue that one can contribute to simply because there's so many people contributing to MongoDB.
 	<!--
 	Explain your position. Do NOT simply say 'yes or 'no'.
 	-->
-	So there are many issues that can be found on JIRA that show what needs to work on. As Professor Klukowska said in class, it may be hard to find an issue that one can contribute to simply because there's so many people contributing to MongoDB.
+
 
 1. Would you be interested in contributing to this particular project? <br>
+	It's definitely an interesting project, so I would like to contribute to it. However, as stated above, it'll be difficult to contribute to.
 	<!--
 	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
 	-->
-	It's definitely an interesting project, so I would like to contribute to it. However, as stated above, it'll be difficult to contribute to.
+
