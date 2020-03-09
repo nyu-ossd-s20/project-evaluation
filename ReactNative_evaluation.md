@@ -37,7 +37,6 @@ In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
 different licenses on specific files, but the project will have a main license.
 -->
-
     Mit License
 
 ## Code Base
