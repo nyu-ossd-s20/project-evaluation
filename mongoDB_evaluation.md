@@ -10,11 +10,12 @@
 ## Project Data
 
 1. Project description: <br>
+	MongoDB is a general purpose, document-based, distributed database built for modern application developers and for the cloud era.
 <!--
 What is the purpose of this project? What does the code do? What type of users
 does it have?
 -->
-	MongoDB is a general purpose, document-based, distributed database built for modern application developers and for the cloud era.
+
 
 1. Project website/homepage: https://www.mongodb.com/
 
@@ -25,12 +26,13 @@ does it have?
 ## License
 
 1. What is the project's license? <br>
+	Server Side Public License (SSPL)
 <!--
 In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
 different licenses on specific files, but the project will have a main license.
 -->
-	Server Side Public License (SSPL)
+	
 
 
 
@@ -85,23 +87,23 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 	7 hours ago
 
 1. How many issues are currently open? <br>
-	Doesn't show issues
+	MongoDB uses a JIRA issue tracker and has 10637 issues
 
 1. How long do issues stay open? <br>
+	Of the five closed issues time frames varied (creation to resolve) 3 months to 5 hours. On average the issues stayed open for 3 weeks.
 	<!--
 	Take the five closed issues (they can be most recently closed or a sample distributed over time) and look at when each was first reported.
 	Compute the number of days that each was open and take the average.
 	-->
-	Doesn't show issues.
 
 1. Read the conversations from some open and some closed issues. Is there active discussion on the issues? <br>
-	Doesn't show issues
+	Very active discussion, almost every issue has discussion about the issue.
 
 1. Are issues tagged as easy, hard, for beginners, etc.? <br>
-	Doesn't show issues
+	Issues are not tagged for difficulty
 
 1. How many issues were closed in the past six months? <br>
-	Doesn't show issues
+	8504 issues were closed this past six months
 
 1. Is there information about how many people are maintaining the project? <br>
 	403 contributors
@@ -137,16 +139,17 @@ Look through it and see if it is clear and thorough. <br>
 
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it? <br>
-	https://www.mongodb.com/community-code-of-conduct no consequences are listed.
+	https://www.mongodb.com/community-code-of-conduct no consequences are listed. However, there are a list of things that people should follow. 
 
 1. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive? Read the issue conversations. <br>
-	Yes, maintainers respond helpfulling in general and typically constructive.
+	Yes, maintainers respond helpfulling in general and typically constructive. However, discussion is typically only one to two lines discussing the success of a question.
 
 1. Are people friendly in the issues, discussion forum, and chat? <br>
 	Friendly overall, but not too much discussion.
+
 1. Do maintainers thank people for their contributions? <br>
-	Sometimes.
+	Sometimes; from what I see most of the bigger issues there are more discussions.
 
 
 ## Development Environment Installation
@@ -155,19 +158,19 @@ Install the development environment for the project on your system.
 Describe the process that you needed to follow:
 
 1. how involved was the process? <br>
-	Gave step by step
+	Gave step by step, so it was easy to follow.
 
 1. how long it take you? <br>
-	Around 30 minutes
+	Around 30 minutes, download took a while, but not sure if it was on my end.
 
 1. did you need to install additional packages or libraries? <br>
-	Yes, but it is done for me
+	Yes, but it was automatically done for me; I just had to follow the steps.
 
 1. were you able to build the code following the instructions? <br>
-	Yes
+	yep, build code can be found here! https://github.com/mongodb/mongo/blob/master/docs/building.md
 
 1. did you need to look for additional help in installing the environment? <br>
-	I had too look at their wiki
+	I had too look at their docs that just told install commands
 
 1. any other comments? <br>
 	Nope
@@ -181,10 +184,10 @@ in the course of a few weeks before the end of this semester? <br>
 	<!--
 	Explain your position. Do NOT simply say 'yes or 'no'.
 	-->
-	Probably not. Its difficult cause they don't have issues, so I'd need to figure out things I'd like to address myself.
+	So there are many issues that can be found on JIRA that show what needs to work on. As Professor Klukowska said in class, it may be hard to find an issue that one can contribute to simply because there's so many people contributing to MongoDB.
 
 1. Would you be interested in contributing to this particular project? <br>
 	<!--
 	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
 	-->
-	It's definitely an interesting project, so I would like to contribute to it. However, as stated above, it'll be difficult to contribute.
+	It's definitely an interesting project, so I would like to contribute to it. However, as stated above, it'll be difficult to contribute to.
