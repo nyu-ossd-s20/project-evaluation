@@ -29,7 +29,7 @@ Kyle - fieldchicken
 
 1. What is the primary programming language in the project?
 
-  Atom's autocomplete-plus package is written primarily in Javascript with a small percentage of the code being written in CSS.
+   Atom's autocomplete-plus package is written primarily in Javascript with a small percentage of the code being written in CSS.
 
 1. What is the development environment? <br>
 
@@ -91,7 +91,7 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 
 1. Read the conversations from some open and some closed issues. Is there active discussion on the issues? <br>
 
-  There is some discussion with a few issues having 25+comments.
+   There is some discussion with a few issues having 25+ comments.
 
 1. Are issues tagged as easy, hard, for beginners, etc.? <br>
 
