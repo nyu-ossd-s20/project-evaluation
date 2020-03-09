@@ -141,12 +141,12 @@ Look through it and see if it is clear and thorough. <br>
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it? <br>
 
-  There is a CODE OF CONDUCT document which outlines acceptable behaviour within the community and behaviours which will not be tolerated. The consequences for not adhering to code of conduct however are very vague and not very reassuring.
+   There is a CODE OF CONDUCT document which outlines acceptable behaviour within the community and behaviours which will not be tolerated. The consequences for not adhering to code of conduct however are very vague and not very reassuring.
 
 1. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive? Read the issue conversations. <br>
 
-  The maintainers are not very helpful in my opinion. They typically respond by saying that the issue has been noted and is being passed onto the engineers with no further iformation provided.
+   The maintainers are not very helpful in my opinion. They typically respond by saying that the issue has been noted and is being passed onto the engineers with no further iformation provided.
 
 1. Are people friendly in the issues, discussion forum, and chat? <br>
 
