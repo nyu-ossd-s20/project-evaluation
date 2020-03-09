@@ -10,11 +10,11 @@ Kyle - fieldchicken
 ## Project Data
 
 1. Project description: <br>
-   Atom is an open-source text editor which focuses on being simple yet modular and highly customizable. The autocomplete-css package provides suggestions on keystrokes for CSS property names and values.
+   Atom is an open-source text editor which focuses on being simple yet modular and highly customizable. The autocomplete-plus package provides suggestions on keystrokes and inserts a suggestion in the editor if confirmed.
 
 1. Project website/homepage: https://atom.io/
 
-1. Project repository:https://github.com/atom/autocomplete-css
+1. Project repository:https://github.com/atom/autocomplete-plus
 
 
 
