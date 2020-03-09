@@ -70,10 +70,6 @@ January 23rd, 2020
 1. How many issues are currently open? <br>
 1720
 1. How long do issues stay open? <br>
-	<!--
-	Take the five closed issues (they can be most recently closed or a sample distributed over time) and look at when each was first reported.
-	Compute the number of days that each was open and take the average.
-	-->
 Many issues seemed to be closed within the same day, but some others take longer.
 1. Read the conversations from some open and some closed issues. Is there active discussion on the issues? <br>
 Yes, many of the issues seem to have conversations.
