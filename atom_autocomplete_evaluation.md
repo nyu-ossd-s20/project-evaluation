@@ -168,7 +168,7 @@ Describe the process that you needed to follow:
 
 1. how long it take you? <br>
 
-  The process took me about 5 minutes.
+   The process took me about 5 minutes.
 
 1. did you need to install additional packages or libraries? <br>
 
