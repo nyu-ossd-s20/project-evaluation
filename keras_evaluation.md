@@ -11,11 +11,11 @@
 ## Project Data
 
 1. Project description: <br>
+	Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. 
 <!--
 What is the purpose of this project? What does the code do? What type of users
 does it have?
 -->
-	Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. 
 
 2. Project website/homepage:
 	https://keras.io/
@@ -28,13 +28,13 @@ does it have?
 ## License
 
 1. What is the project's license? <br>
+	MIT
 <!--
 In most repositories there will be a file named LICENSE or something similar in
 the root level of the repository. This is the one to examine. There may be
 different licenses on specific files, but the project will have a main license.
 -->
 
-	MIT
 
 ## Code Base
 
