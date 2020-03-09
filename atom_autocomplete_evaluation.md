@@ -115,7 +115,7 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 
 1. Do pull requests remain un-answered for a long time? <br>
 
-  For the pull requests that were merged, they usually only remain open for a day or two. The other pull requests however can stay open for months or even years.
+   For the pull requests that were merged, they usually only remain open for a day or two. The other pull requests however can stay open for months or even years.
 
 1. Read the conversations from some open and some closed pull requests.  Is there active discussion on the pull requests? <br>
 
