@@ -153,51 +153,68 @@ are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 14. When was the last  pull request  merged? <br>
 
 	Yesterday, 3/7/2020.
-	
+
 ## Welcomeness and Community
 
 1. Is there a CONTRIBUTING document? If so, how easy to read and understand is it?
 Look through it and see if it is clear and thorough. <br>
 
-1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
+	There is a [CONTRIBUTING](https://github.com/libgdx/libgdx/wiki/Contributing) document. It is quite easy to read and understand.
+	
+2. Is there a CODE OF CONDUCT document? Does it have consequences for acts that
 violate it? <br>
 
-1. Do the maintainers respond helpfully to questions in issues?
+	There doesn't seem to be a CODE OF CONDUCT document.
+
+3. Do the maintainers respond helpfully to questions in issues?
 Are responses generally constructive? Read the issue conversations. <br>
 
-1. Are people friendly in the issues, discussion forum, and chat? <br>
+	Yes, maintainers often respond with more questions trying to ascertain the root of the issues, and they try to work out how an issue may be solved.
 
-1. Do maintainers thank people for their contributions? <br>
+4. Are people friendly in the issues, discussion forum, and chat? <br>
 
+	Yes.
+
+5. Do maintainers thank people for their contributions? <br>
+
+	Yes they do.
 
 ## Development Environment Installation
 
 Install the development environment for the project on your system.
 Describe the process that you needed to follow:
 
-1. how involved was the process? <br>
+1. How involved was the process? <br>
 
-1. how long it take you? <br>
+	Not too involved, as the process is quite simple. 
 
-1. did you need to install additional packages or libraries? <br>
+2. How long did it take you? <br>
 
-1. were you able to build the code following the instructions? <br>
+	Took me around 10 minutes.
 
-1. did you need to look for additional help in installing the environment? <br>
+3. Did you need to install additional packages or libraries? <br>
 
-1. any other comments? <br>
+	I had to install maven.
 
+4. Were you able to build the code following the instructions? <br>
+
+	Yes.
+
+5. Did you need to look for additional help in installing the environment? <br>
+
+	For setting up, I just had to go to the download pages of the required/recommended IDEs.
+
+6. Any other comments? <br>
+
+	n/a
 
 
 
 ## Summary
-1. Do you think  this is a project to which it would be possible to contribute
-in the course of a few weeks before the end of this semester? <br>
-	<!--
-	Explain your position. Do NOT simply say 'yes or 'no'.
-	-->
+1. Do you think  this is a project to which it would be possible to contribute in the course of a few weeks before the end of this semester? <br>
 
-1. Would you be interested in contributing to this particular project? <br>
-	<!--
-	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
-	-->
+	I am primarily a Java programmer, and this project is primarily Java focused. The code isn't too difficult to understand, so I should be able to contribute some code. There is also a wiki that I can contribute to.
+
+2. Would you be interested in contributing to this particular project? <br>
+
+	As someone who is very interested in using libGDX for a game of my own, I'm pretty interested in contributing to libGDX.
