@@ -190,7 +190,7 @@ Describe the process that you needed to follow:
 1. Do you think  this is a project to which it would be possible to contribute
 in the course of a few weeks before the end of this semester? <br>
 
-   I don't believe it is possible to contribute to this project for a few reasons. The maintainers have repeatedly stated that they are not interested in implementing any new functionality. The issues that are currently open are not very beginner friendly and for those that are more experienced and can handle the more complex issues, may not see it as a valuable use of time as the maintainers are very peculiar about what contributions they want as demonstrated by the fact that the last commit was in June 2019.
+   I don't believe it is possible to contribute to this project for a few reasons. The maintainers have repeatedly stated that they are not interested in implementing any new functionality. The issues that are currently open are not very beginner friendly and for those that are more experienced and can handle the more complex issues, may not see it as a valuable use of time as the maintainers are very peculiar about what contributions they want as demonstrated by the fact that the last commit was in June 2019 but several pull request have been made in the months since then>
 
 1. Would you be interested in contributing to this particular project? <br>
 
