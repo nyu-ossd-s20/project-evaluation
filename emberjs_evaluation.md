@@ -14,21 +14,23 @@ sdhani
 Ember.js is a JavaScript framework intended to help web developers build modern web applications with complex and scalable UIs.
 
 
-1. Project website/homepage: [Ember.js](https://emberjs.com/)
+1. Project website/homepage: <br>
+[Ember.js](https://emberjs.com/)
 
 
-1. Project repository: [Ember.js's GitHub Repository](https://github.com/emberjs/ember.js)
+1. Project repository: <br> 
+[Ember.js's GitHub Repository](https://github.com/emberjs/ember.js)
 
 
 ## License
 
-1. What is the project's license? 
+1. What is the project's license? <br>
 Ember.js is licensed under the [MIT license](https://github.com/emberjs/ember.js/blob/master/LICENSE).
 
 
 ## Code Base
 
-1. What is the primary programming language in the project?<br>
+1. What is the primary programming language in the project? <br>
 The primary programming language is JavaScript. 
 
 
