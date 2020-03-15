@@ -13,9 +13,11 @@ sdhani
 1. Project description: 
 **Ember.js is a JavaScript framework intended to help web developers build modern web applications with complex and scalable UIs.** 
 <br>
-1. Project website/homepage: **[Ember.js](https://emberjs.com/)**
+1. Project website/homepage: 
+**[Ember.js](https://emberjs.com/)**
 <br>
-1. Project repository: **[Ember.js's GitHub Repository](https://github.com/emberjs/ember.js)**
+1. Project repository: 
+**[Ember.js's GitHub Repository](https://github.com/emberjs/ember.js)**
 
 
 ## License
@@ -130,23 +132,20 @@ sdhani
 <br>
 
 1. Is there a CODE OF CONDUCT document? Does it have consequences for acts that violate it? 
-****
+**Yes, there is a CODE_OF_CONDUCT document that links to the [community's guidelines](https://emberjs.com/guidelines/). There are no specific consequences mentioned to violating these rules.**
 <br>
 
-
 1. Do the maintainers respond helpfully to questions in issues? Are responses generally constructive? Read the issue conversations. 
-****
+**Yes, maintainers do respond to questions posed in issues in a helpful and constructive manner.**
 <br>
 
 1. Are people friendly in the issues, discussion forum, and chat?
-****
+**Yes, the community appears to be very bright and cheery. This is evident in the helpful and patient nature in which maintainers respond to issues and questions posed on GitHub, in the project's [discord](https://discordapp.com/invite/emberjs) channel, and on the project's [discussion](https://discuss.emberjs.com/) forum.**
 <br>
-
 
 1. Do maintainers thank people for their contributions? 
-****
+**Maintainers do thank people for their contributions, promoting a respectful and appreciative atmosphere.**
 <br>
-
 
 
 ## Development Environment Installation
@@ -154,46 +153,36 @@ sdhani
 Install the development environment for the project on your system.
 Describe the process that you needed to follow:
 
-1. how involved was the process? 
-****
+1. How involved was the process? 
+**The development process was not super involved. Only a few terminal commands were needed to download, install, build, and run the program.**
 <br>
 
-1. how long it take you?
-****
+1. How long it take you?
+**This project took less than an hour to install, buils and run.**
 <br>
 
-1. did you need to install additional packages or libraries?
-****
+1. Did you need to install additional packages or libraries?
+**Since I already had `yarn` installed on my laptop, I did not need to install any additional packages or libraries.**
 <br>
 
-1. were you able to build the code following the instructions? 
-****
+1. Were you able to build the code following the instructions? 
+**Yes, I was able to build the project following the instructions. It was a simple and straightforward process.**
 <br>
 
-1. did you need to look for additional help in installing the environment?
-****
+1. Did you need to look for additional help in installing the environment?
+**No, in my case, the contributing doc provided sufficient information for downloading, running, and building the project.**
 <br>
 
-1. any other comments?
-****
+1. Any other comments?
+**This installation process was clear and straightforward. I am using Ubuntu 18.04.**
 <br>
-
 
 
 ## Summary
-1. Do you think  this is a project to which it would be possible to contribute
-in the course of a few weeks before the end of this semester?
-****
+1. Do you think  this is a project to which it would be possible to contribute in the course of a few weeks before the end of this semester?
+**This project has a vibrant and welcoming community that encourages questions. It is well organized and provides sufficient documentation to guide new contributors. It offers both users of the product and contributors with many mediums to discuss issues, questions, and feature requests. The drawbacks to contributing to this project in the course of a semester are, (1) there are not enough opened issues for beginners, (2) issues are resolved *too* quickly, (3) the frequency of accepted pull requests is low. Due to these reasons, finding contributions to make to the project may prove to be difficult. Therefore, I would not reccommend contributing to this project, without providing some warning about these drawbacks. If you are willing to look past these challenges, then the welcoming community is definetly one that appears to be supportive to new contributors.**
 <br>
-
-	<!--
-	Explain your position. Do NOT simply say 'yes or 'no'.
-	-->
 
 1. Would you be interested in contributing to this particular project?
-****
+**I would be interested in contributing to this project because the community appears to be receptive to both new members and questions. It would be easier to navigate challenges that I might encounter with a supportive and present community to fallback on. Researching specific issues to tackle however, may prove to be difficult, but the community is welcoming enough to motivate me to try.**
 <br>
-
-	<!--
-	Explain why you would or would not be interested in contributing to this project. Do NOT simply say 'yes or 'no'.
-	-->
