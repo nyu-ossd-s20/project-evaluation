@@ -10,11 +10,11 @@
 ## Project Data
 
 1. Project description: <br>
-	Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.
+	Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages. And it contains many sub-projects. In this file, I will exaborate on nbviewer, which is a simple way to share Jupyter Notebooks. NBViewer can render Jupyter Notebooks as static web pages.
 
-1. Project website/homepage: [link](https://jupyter.org/)
+1. Project website/homepage: [link](https://nbviewer.jupyter.org/)
 
-1. Project repository: [link](https://github.com/jupyter/jupyter)
+1. Project repository: [link](https://github.com/jupyter/nbviewer)
 
 
 ## License
