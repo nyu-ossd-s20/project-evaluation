@@ -12,7 +12,7 @@ Daniel Lu Sing, Karishma Maraj
 1. Project description: <br>
 	Tidepool aggregates diabetes data. For people who have diabetes and clinicians you can see data from insulin pumps and glucose monitors. It is an easy way to understand what methods are working and what methods are not working. 
 
-1. Project website/homepage: [Website](https://github.com/tidepool-org)
+1. Project website/homepage: [Website](https://www.tidepool.org/)
 
 1. Project repository: [Repository](https://github.com/tidepool-org)
 
