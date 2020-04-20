@@ -1,34 +1,27 @@
-# Project Name:  <!-- replace with the project name -->   
+# Project Name:  Tidepool
 
 
 
 **Evaluating Person or Team**:
-<!-- list your first name and github user-name-->
+Daniel Lu Sing, Karishma Maraj 
 
 ---
 
 ## Project Data
 
 1. Project description: <br>
-<!--
-What is the purpose of this project? What does the code do? What type of users
-does it have?
--->
+	Tidepool aggregates diabetes data. For people who have diabetes and clinicians you can see data from insulin pumps and glucose monitors. It is an easy way to understand what methods are working and what methods are not working. 
 
-1. Project website/homepage:
+1. Project website/homepage: [Website](https://github.com/tidepool-org)
 
-1. Project repository:
+1. Project repository: [Repository](https://github.com/tidepool-org)
 
 
 
 ## License
 
 1. What is the project's license? <br>
-<!--
-In most repositories there will be a file named LICENSE or something similar in
-the root level of the repository. This is the one to examine. There may be
-different licenses on specific files, but the project will have a main license.
--->
+BSD 2-Clause "Simplified" License because the tool contains a lot of sensitive private data that needs to be protected. 
 
 
 
@@ -36,43 +29,56 @@ different licenses on specific files, but the project will have a main license.
 
 
 1. What is the primary programming language in the project?
+	JavaScript, Go, Swift, Python, Shell
+
 
 1. What is the development environment? <br>
-	<!--
-	For example, is it Gnu C++ on Linux?
-	Is it a Windows 10 application? Does one need to develop in a virtual machine?
-	-->
+	Go and using mongoDB.
+	
 
 1. Are there instructions for how to download, build, and install? How easy is it
 to find them? Do they seem easy (relatively speaking) to follow? <br>
+	Overall yes the instructions are pretty clear. If you go on the [README of the platform respository](https://github.com/tidepool-org/platform#setup) you can see step by step how to setup and execute. 
+	
 
 1. Does the project depend on external additional software modules such as
 database,  graphics, web development, or other libraries? If so, are there clear instructions on how to install those? <br>
+	Depends on mongoDB. If using brew make sure to do mongodb-community, since mongo was recently closed source. Also preferred if you use sublime text. Also need ‘dep’ via brew.
+
 
 1. Is the code easy to understand? Browse some source code files and make
 a judgment based on your random sample. <br>
+	While it is a large code base, they have provided some tools that make it easier to go through the code. For example they have code navigation where you can click on different functions and it defines the function and also tells you where that function is also referenced throughout the repository. 
 
 1. Is this a big project? If you can, find out about how many lines of code
 are in it, perhaps on [OpenHub](https://www.openhub.net/). <br>
 
+	74.9K lines of code.
+
 1. Does the repository have tests? If so, are the code contributors expected to write tests for newly added code? <br>
+	I don’t think there are any tests you have to create, but they have test cases in of which you must pass
 
 
 
 ## Code and Design Documentation
 1. Is there clear documentation in the code itself? <br>
+	There are lots of comments on the code itself. However navigating the git is very challenging because there are so many branches. They do not specify what branch is doing what job.
 
 1. Is there documentation about the design?  <br>
+	While there is some information on https://developer.tidepool.org/ regarding the different pieces of Tidepool, I think the project lacks documentation regarding the overall architecture of the tool. However in each individual repository there are docs that explain the design of that specific part of Tidepool. For example for Tidepool Uploader there is a guide explaining the architecture, the code style, etc. 
 
 
 ## Activity Level
 
 
 1. How many commits have been made in the past week? <br>
+	Given that 
 
 1. When was the most recent commit? <br>
+	1 hour ago.
 
 1. How many issues are currently open? <br>
+	Since there are multiple repositories within the Tidepool project, it is unclear how many issues are currently open. For the Tidepool Uploaded Repository for example there are 11 issues open.   
 
 1. How long do issues stay open? <br>
 	<!--
