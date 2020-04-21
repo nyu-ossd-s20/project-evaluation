@@ -31,7 +31,7 @@ MIT
 Javascript
 
 1. What is the development environment? <br>
-	Rewuires Node.js, and is built with dependencies on Electron, Ace, and Photon, though these
+	Requires Node.js, and is built with dependencies on Electron, Ace, and Photon, though these
   do not need to be aquired separately.
 
 1. Are there instructions for how to download, build, and install? How easy is it
